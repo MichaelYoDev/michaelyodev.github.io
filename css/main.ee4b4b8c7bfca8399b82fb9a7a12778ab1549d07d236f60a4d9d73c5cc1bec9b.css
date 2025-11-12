@@ -516,6 +516,10 @@ article .title {
     text-decoration: none !important;
 }
 
+.recent-posts h1 {
+    margin-top: 1em;
+}
+
 /* Tags */
 .tags {
     display: flex;
