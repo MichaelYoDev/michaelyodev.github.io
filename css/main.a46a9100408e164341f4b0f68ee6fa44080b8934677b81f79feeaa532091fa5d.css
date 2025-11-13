@@ -396,7 +396,7 @@ header .main a:focus {
 }
 
 .main a::after {
-    content: "█";
+    content: "▊";
     margin-left: 4px;
     margin-right: 1px;
     font-size: 2rem;
