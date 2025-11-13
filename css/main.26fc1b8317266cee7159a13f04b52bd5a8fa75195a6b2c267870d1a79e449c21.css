@@ -378,6 +378,7 @@ header {
     gap: 1rem;
 }
 
+
 header .main {
     font-size: 1.7rem;
     font-weight: bold;
@@ -705,6 +706,11 @@ article .title {
 .site-title a {
     color: var(--ef-fg);
     text-decoration: none !important;
+}
+
+.site-description {
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
 
 /* ==========================================================================
