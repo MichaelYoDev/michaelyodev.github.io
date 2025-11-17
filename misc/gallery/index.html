@@ -17,7 +17,7 @@
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="gallery">
 
-	<link rel="stylesheet" type="text/css" media="screen" href="https://michaelyodev.github.io/css/main.a360636915fe6bc170baf168fdd074d871e4199d182186cea441d6e1fe5cf476.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://michaelyodev.github.io/css/main.9372ae22c1f060fe05264522f936ab0b5f96d62bcbec3fbea3cc1f3c9581dd63.css" />
 
 	
 </head>
@@ -52,36 +52,38 @@
 
 <h1>gallery</h1>
 
+<style>
+    .gallery {
+        column-count: 4;
+        column-gap: 10px;
+    }
 
+    .gallery img {
+        width: 100%;
+        margin-bottom: 10px;
+        display: block;
+        border-radius: 10px;
+        border: none;
+    }
 
+    @media (max-width: 1200px) {
+        .gallery {
+            column-count: 3;
+        }
+    }
 
+    @media (max-width: 800px) {
+        .gallery {
+            column-count: 2;
+        }
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    @media (max-width: 500px) {
+        .gallery {
+            column-count: 1;
+        }
+    }
+</style>
 
 <div class="gallery">
     
