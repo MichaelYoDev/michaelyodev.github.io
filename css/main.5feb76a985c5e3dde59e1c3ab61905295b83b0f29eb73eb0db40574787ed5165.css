@@ -714,6 +714,100 @@ article .title {
 }
 
 /* gallery =================================================================== */
+.gallery {
+    column-count: 4;
+    column-gap: 8px;
+    break-inside: avoid;
+}
+
+.gallery a {
+    display: block;
+    margin-bottom: 8px;
+    border-width: 0px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform .3s, box-shadow .3s;
+}
+
+.gallery a:hover {
+    transform: scale(1.03);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+}
+
+.gallery img {
+    width: 100%;
+    display: block;
+    border-radius: inherit;
+    border-width: 0px;
+}
+
+.lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .4s, visibility .4s;
+    z-index: 1000;
+}
+
+.lightbox:target {
+    opacity: 1;
+    visibility: visible;
+}
+
+.lightbox img {
+    max-width: 96%;
+    max-height: 96vh;
+    border-radius: 12px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.70);
+}
+
+/* .lightbox figcaption { */
+/*     position: absolute; */
+/*     bottom: 30px; */
+/*     left: 50%; */
+/*     transform: translateX(-50%); */
+/*     padding: 8px 16px; */
+/*     background: rgba(0, 0, 0, 0.60); */
+/*     color: white; */
+/*     border-radius: 8px; */
+/*     font: 1.1rem/1.4 monospace; */
+/*     max-width: 90%; */
+/*     text-align: center; */
+/* } */
+
+.lightbox .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font: bold 40px/1 sans-serif;
+    text-decoration: none;
+}
+
+@media (max-width: 1200px) {
+    .gallery {
+        columns: 3;
+    }
+}
+
+@media (max-width: 800px) {
+    .gallery {
+        columns: 2;
+    }
+}
+
+@media (max-width: 500px) {
+    .gallery {
+        columns: 1;
+    }
+}
 
 /* ==========================================================================
    Responsive Adjustments
