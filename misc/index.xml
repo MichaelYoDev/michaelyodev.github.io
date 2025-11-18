@@ -1,0 +1,77 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>m1ch43ly0.dev's posts</title>
+    <link>https://michaelyodev.github.io/misc/</link>
+    <description>Recent posts on m1ch43ly0.dev's site.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Michael Oliveira</copyright>
+    <lastBuildDate>Mon, 17 Nov 2025</lastBuildDate>
+    
+        <atom:link href="https://michaelyodev.github.io/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>gallery</title>
+      <link>https://michaelyodev.github.io/misc/gallery/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelyodev.github.io/misc/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>https://michaelyodev.github.io/misc/links/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelyodev.github.io/misc/links/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This page is an ever-changing collection of links I find interesting or want to read later.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;blogs--sites&#34;&gt;blogs / sites&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com/&#34;&gt;マリウス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.woodbetween.world/&#34;&gt;wood between worlds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adamthiede.com/&#34;&gt;adam thiede&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz&#34;&gt;luke smith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cozynet.org/&#34;&gt;cozynet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drkhsh.at/&#34;&gt;drkhsh&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fdisk.quest/&#34;&gt;fdisk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cblgh.org/&#34;&gt;cblgh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;webrings&#34;&gt;webrings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://webring.xxiivv.com/&#34;&gt;merveilles webring&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;privacy--foss&#34;&gt;privacy / foss&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sizeof.cat/links/&#34;&gt;sizeof.cat links&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.privacyguides.org/en/&#34;&gt;privacy guides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prism-break.org/&#34;&gt;prism break&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/redecentralize/alternative-internet&#34;&gt;redecentralize alternative internet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/awesome-selfhosted/awesome-selfhosted&#34;&gt;awesome self-hosted&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;photography&#34;&gt;photography&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://exif-frame.yuru.cam/&#34;&gt;exif frame&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;settings (for my &lt;a href=&#34;https://michaelyodev.github.io/gear/cameras/#canon-powershot-sd1200-is&#34;&gt;Powershot&lt;/a&gt;):
+&lt;ul&gt;
+&lt;li&gt;list: strap&lt;/li&gt;
+&lt;li&gt;template1: {ISO}- {F}- {SEC}&lt;/li&gt;
+&lt;li&gt;template2: PowerShot SD1200 IS&lt;/li&gt;
+&lt;li&gt;template3: [event, place - city?, smt]&lt;/li&gt;
+&lt;li&gt;template4: 6.2-18.6mm&lt;/li&gt;
+&lt;li&gt;export to jpeg&lt;/li&gt;
+&lt;li&gt;keep exif metadata&lt;/li&gt;
+&lt;li&gt;quality: 100%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shortpixel.com/online-image-compression&#34;&gt;shortpixel&lt;/a&gt; image compression&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
