@@ -361,7 +361,9 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    margin-block: 1em;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    /* margin-block: 1em; */
     line-height: 2.5em;
     gap: 1rem;
 }
@@ -470,8 +472,8 @@ footer {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    border-top: 0.3rem solid var(--ef-muted);
-    padding-block: 2rem;
+    border-top: 0.2rem solid var(--ef-muted);
+    padding-block-start: 2rem;
     margin-block-start: 2rem;
     gap: 0.5rem;
 }
