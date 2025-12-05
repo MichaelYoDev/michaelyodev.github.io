@@ -6,7 +6,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Michael Oliveira</copyright>
-    <lastBuildDate>Wed, 26 Nov 2025</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025</lastBuildDate>
     
         <atom:link href="https://michaelyodev.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Posts</title>
       <link>https://michaelyodev.github.io/posts/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       
       <guid>https://michaelyodev.github.io/posts/</guid>
       <description></description>
@@ -71,7 +71,7 @@
 &lt;p&gt;The first ever blog I stumbled upon was the blog of &lt;a href=&#34;https://www.woodbetween.world/&#34;&gt;Reece&lt;/a&gt;. His blog has writings on a variety of topics from &lt;em&gt;the Lord of the Rings&lt;/em&gt; to the property of spin in subatomic particles. It opened my eyes to the realization that writing, even about random topics, can be interesting and even fun to read and write.&lt;/p&gt;
 &lt;p&gt;Recently, I discovered the website of &lt;a href=&#34;https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com/&#34;&gt;Marius&lt;/a&gt;, as well as the &lt;a href=&#34;https://webring.xxiivv.com/m1ch43ly0&#34;&gt;Merveilles webring&lt;/a&gt;. There, I discovered the simplicity that personal sites and blogs can have while still containing lots of character.&lt;/p&gt;
 &lt;h2 id=&#34;how-was-this-site-made&#34;&gt;how was this site made?&lt;/h2&gt;
-&lt;p&gt;This website was made using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and a modified version of the &lt;a href=&#34;https://github.com/athul/archie&#34;&gt;Archie&lt;/a&gt; theme. I played with the idea of having a simple &lt;a href=&#34;https://motherfuckingwebsite.com/&#34;&gt;motherf*cking website&lt;/a&gt; with just html and css, but I found Hugo to be very fun to work with.&lt;/p&gt;
+&lt;p&gt;This website was made using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and a heavily modified version of the &lt;a href=&#34;https://github.com/athul/archie&#34;&gt;Archie&lt;/a&gt; theme. I played with the idea of having a simple &lt;a href=&#34;https://motherfuckingwebsite.com/&#34;&gt;motherf*cking website&lt;/a&gt; with just html and css, but I found Hugo to be very fun to work with.&lt;/p&gt;
 &lt;h2 id=&#34;where-to-start&#34;&gt;where to start?&lt;/h2&gt;
 &lt;p&gt;Check out:&lt;/p&gt;
 &lt;ul&gt;

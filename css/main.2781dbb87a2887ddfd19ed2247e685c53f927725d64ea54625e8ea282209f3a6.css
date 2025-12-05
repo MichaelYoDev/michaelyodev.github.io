@@ -18,7 +18,7 @@
     --border-radius: 5px;
     --font-size-base: 15px;
     --line-height-base: 1.6;
-    --line-height-content: 1.5;
+    --line-height-content: 1.6;
 }
 
 /* Reset & Base */
@@ -553,7 +553,9 @@ a.soc img {
 }
 
 .callout-custom {
-    color: var(--ef-fg);
+    background: #3C4841;
+    color: var(--ef-green);
+    border-color: var(--ef-green);
 }
 
 /* Tags */
