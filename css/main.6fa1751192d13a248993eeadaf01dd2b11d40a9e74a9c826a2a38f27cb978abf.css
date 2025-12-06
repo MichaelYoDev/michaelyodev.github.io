@@ -478,6 +478,33 @@ footer {
     gap: 0.5rem;
 }
 
+.footer-buttons {
+    gap: 2px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.footer-buttons a {
+    border: none;
+    text-decoration: none;
+    background: none;
+    outline: none;
+}
+
+.footer-buttons a:hover,
+.footer-buttons a:focus {
+    background: none;
+    color: inherit;
+    outline: none;
+}
+
+.footer-buttons a img {
+    border: none;
+    border-radius: 0px;
+}
+
 /* Social Icons */
 .soc {
     border: none;
