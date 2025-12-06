@@ -386,15 +386,6 @@ header .main a:focus {
     outline-offset: 2px;
 }
 
-.main a::after {
-    content: "▊";
-    margin-left: 4px;
-    margin-right: 1px;
-    font-size: 2rem;
-    color: var(--ef-fg);
-    animation: smoothBlink 1s ease-in-out infinite;
-}
-
 @keyframes smoothBlink {
 
     0%,

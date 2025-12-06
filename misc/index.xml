@@ -1,104 +1,170 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>m1ch43ly0.dev's posts</title>
+    <title>m1ch43ly0.dev</title>
     <link>https://michaelyodev.github.io/misc/</link>
-    <description>Recent posts on m1ch43ly0.dev's site.</description>
+    <description><![CDATA[Recent posts on ]]>m1ch43ly0.dev<![CDATA['s site.]]></description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    
     <copyright>© Michael Oliveira</copyright>
+    
     <lastBuildDate>Mon, 17 Nov 2025</lastBuildDate>
     
         <atom:link href="https://michaelyodev.github.io/misc/index.xml" rel="self" type="application/rss+xml" />
     
+
     
     <item>
       <title>gallery</title>
       <link>https://michaelyodev.github.io/misc/gallery/</link>
-      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Nov 2025</pubDate>
       
       <guid>https://michaelyodev.github.io/misc/gallery/</guid>
-      <description></description>
+      <description>
+          <![CDATA[]]>
+        
+      </description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>links</title>
       <link>https://michaelyodev.github.io/misc/links/</link>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Nov 2025</pubDate>
       
       <guid>https://michaelyodev.github.io/misc/links/</guid>
-      <description>&lt;p&gt;&lt;em&gt;This page is an ever-changing collection of links I find interesting or want to read later.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;blogs--sites&#34;&gt;blogs / sites&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com/&#34;&gt;マリウス&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.woodbetween.world/&#34;&gt;wood between worlds&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://adamthiede.com/&#34;&gt;adam thiede&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz&#34;&gt;luke smith&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cozynet.org/&#34;&gt;cozynet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://drkhsh.at/&#34;&gt;drkhsh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://fdisk.quest/&#34;&gt;fdisk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cblgh.org/&#34;&gt;cblgh&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://webb.page/&#34;&gt;paul webb&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://interconnected.org/home/&#34;&gt;matt webb&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;webrings&#34;&gt;webrings&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://webring.xxiivv.com/&#34;&gt;merveilles webring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cyberspace.online/&#34;&gt;cyberspace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xn--sr8hvo.ws/&#34;&gt;indieweb webring&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;blog-resources&#34;&gt;blog resources&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tumblr.com/communities/websourcez/post/788913120331579392/how-to-make-your-own-blinkies-and-88x31-buttons&#34;&gt;88x31 blinkie tips&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hellnet.work/8831/&#34;&gt;hellnet buttons&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://yesterweb.org/graphics/buttons&#34;&gt;yesterweb buttons&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cyber.dabamos.de/88x31/index.html&#34;&gt;cyber buttons&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lmnt.me/badges/&#34;&gt;lmnt buttons&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;privacy--foss&#34;&gt;privacy / foss&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sizeof.cat/links/&#34;&gt;sizeof.cat links&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.privacyguides.org/en/&#34;&gt;privacy guides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://prism-break.org/&#34;&gt;prism break&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/redecentralize/alternative-internet&#34;&gt;redecentralize alternative internet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/awesome-selfhosted/awesome-selfhosted&#34;&gt;awesome self-hosted&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;photography&#34;&gt;photography&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://exif-frame.yuru.cam/&#34;&gt;exif frame&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;settings (for my &lt;a href=&#34;https://michaelyodev.github.io/gear/cameras/#canon-powershot-sd1200-is&#34;&gt;Powershot&lt;/a&gt;):
-&lt;ul&gt;
-&lt;li&gt;list: strap&lt;/li&gt;
-&lt;li&gt;template1: {ISO}- {F}- {SEC}&lt;/li&gt;
-&lt;li&gt;template2: PowerShot SD1200 IS&lt;/li&gt;
-&lt;li&gt;template3: [event, place - city?, smt]&lt;/li&gt;
-&lt;li&gt;template4: 6.2-18.6mm&lt;/li&gt;
-&lt;li&gt;export to jpeg&lt;/li&gt;
-&lt;li&gt;keep exif metadata&lt;/li&gt;
-&lt;li&gt;quality: 100%&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;settings (for my &lt;a href=&#34;https://michaelyodev.github.io/gear/cameras/#nikon-coolpix-l105&#34;&gt;COOLPIX&lt;/a&gt;):
-&lt;ul&gt;
-&lt;li&gt;template2: COOLPIX L105&lt;/li&gt;
-&lt;li&gt;template4: 5.0-75.0mm&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shortpixel.com/online-image-compression&#34;&gt;shortpixel&lt;/a&gt; image compression&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;clothing&#34;&gt;clothing&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.uniqlo.com/us/en/products/e471809-000/&#34;&gt;uniqlo wide sweatpants&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://25-h.com/products/night-lab-fleece-black-grey&#34;&gt;night lab fleece jacket&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.stussy.com/products/1975167-swim-out-zip-hoodie-black&#34;&gt;stussy trumpet zip-up&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;misc&#34;&gt;misc&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://f1live.dpdns.org/&#34;&gt;f1 live&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>
+          <![CDATA[<p><em>This page is an ever-changing collection of links I find interesting or want to read later.</em></p>
+<h2 id="blogs--sites">blogs / sites</h2>
+<ul>
+<li><a href="https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com/">マリウス</a></li>
+<li><a href="https://www.woodbetween.world/">wood between worlds</a></li>
+<li><a href="https://adamthiede.com/">adam thiede</a></li>
+<li><a href="https://www.cozynet.org/">cozynet</a></li>
+<li><a href="https://drkhsh.at/">drkhsh</a></li>
+<li><a href="https://fdisk.quest/">fdisk</a></li>
+<li><a href="https://cblgh.org/">cblgh</a></li>
+<li><a href="https://webb.page/">paul webb</a></li>
+<li><a href="https://interconnected.org/home/">matt webb</a></li>
+</ul>
+<h2 id="webrings">webrings</h2>
+<ul>
+<li><a href="https://webring.xxiivv.com/">merveilles webring</a></li>
+<li><a href="https://cyberspace.online/">cyberspace</a></li>
+<li><a href="https://xn--sr8hvo.ws/">indieweb webring</a></li>
+</ul>
+<h2 id="privacy--foss">privacy / foss</h2>
+<ul>
+<li><a href="https://sizeof.cat/links/">sizeof.cat links</a></li>
+<li><a href="https://www.privacyguides.org/en/">privacy guides</a></li>
+<li><a href="https://prism-break.org/">prism break</a></li>
+<li><a href="https://github.com/redecentralize/alternative-internet">redecentralize alternative internet</a></li>
+<li><a href="https://github.com/awesome-selfhosted/awesome-selfhosted">awesome self-hosted</a></li>
+</ul>
+<h2 id="photography">photography</h2>
+<ul>
+<li><a href="https://exif-frame.yuru.cam/">exif frame</a>
+<ul>
+<li>settings (for my <a href="/gear/cameras/#canon-powershot-sd1200-is">Powershot</a>):
+<ul>
+<li>list: strap</li>
+<li>template1: {ISO}- {F}- {SEC}</li>
+<li>template2: PowerShot SD1200 IS</li>
+<li>template3: [event, place - city?, smt]</li>
+<li>template4: 6.2-18.6mm</li>
+<li>export to jpeg</li>
+<li>keep exif metadata</li>
+<li>quality: 100%</li>
+</ul>
+</li>
+<li>settings (for my <a href="/gear/cameras/#nikon-coolpix-l105">COOLPIX</a>):
+<ul>
+<li>template2: COOLPIX L105</li>
+<li>template4: 5.0-75.0mm</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://shortpixel.com/online-image-compression">shortpixel</a> image compression</li>
+</ul>
+<h2 id="clothing">clothing</h2>
+<ul>
+<li><a href="https://www.uniqlo.com/us/en/products/e471809-000/">uniqlo wide sweatpants</a></li>
+<li><a href="https://25-h.com/products/night-lab-fleece-black-grey">night lab fleece jacket</a></li>
+<li><a href="https://www.stussy.com/products/1975167-swim-out-zip-hoodie-black">stussy trumpet zip-up</a></li>
+</ul>
+<h2 id="misc">misc</h2>
+<ul>
+<li><a href="https://f1live.dpdns.org/">f1 live</a></li>
+</ul>]]>
+        
+      </description>
+      <content:encoded><![CDATA[<p><em>This page is an ever-changing collection of links I find interesting or want to read later.</em></p>
+<h2 id="blogs--sites">blogs / sites</h2>
+<ul>
+<li><a href="https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com/">マリウス</a></li>
+<li><a href="https://www.woodbetween.world/">wood between worlds</a></li>
+<li><a href="https://adamthiede.com/">adam thiede</a></li>
+<li><a href="https://www.cozynet.org/">cozynet</a></li>
+<li><a href="https://drkhsh.at/">drkhsh</a></li>
+<li><a href="https://fdisk.quest/">fdisk</a></li>
+<li><a href="https://cblgh.org/">cblgh</a></li>
+<li><a href="https://webb.page/">paul webb</a></li>
+<li><a href="https://interconnected.org/home/">matt webb</a></li>
+</ul>
+<h2 id="webrings">webrings</h2>
+<ul>
+<li><a href="https://webring.xxiivv.com/">merveilles webring</a></li>
+<li><a href="https://cyberspace.online/">cyberspace</a></li>
+<li><a href="https://xn--sr8hvo.ws/">indieweb webring</a></li>
+</ul>
+<h2 id="privacy--foss">privacy / foss</h2>
+<ul>
+<li><a href="https://sizeof.cat/links/">sizeof.cat links</a></li>
+<li><a href="https://www.privacyguides.org/en/">privacy guides</a></li>
+<li><a href="https://prism-break.org/">prism break</a></li>
+<li><a href="https://github.com/redecentralize/alternative-internet">redecentralize alternative internet</a></li>
+<li><a href="https://github.com/awesome-selfhosted/awesome-selfhosted">awesome self-hosted</a></li>
+</ul>
+<h2 id="photography">photography</h2>
+<ul>
+<li><a href="https://exif-frame.yuru.cam/">exif frame</a>
+<ul>
+<li>settings (for my <a href="/gear/cameras/#canon-powershot-sd1200-is">Powershot</a>):
+<ul>
+<li>list: strap</li>
+<li>template1: {ISO}- {F}- {SEC}</li>
+<li>template2: PowerShot SD1200 IS</li>
+<li>template3: [event, place - city?, smt]</li>
+<li>template4: 6.2-18.6mm</li>
+<li>export to jpeg</li>
+<li>keep exif metadata</li>
+<li>quality: 100%</li>
+</ul>
+</li>
+<li>settings (for my <a href="/gear/cameras/#nikon-coolpix-l105">COOLPIX</a>):
+<ul>
+<li>template2: COOLPIX L105</li>
+<li>template4: 5.0-75.0mm</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://shortpixel.com/online-image-compression">shortpixel</a> image compression</li>
+</ul>
+<h2 id="clothing">clothing</h2>
+<ul>
+<li><a href="https://www.uniqlo.com/us/en/products/e471809-000/">uniqlo wide sweatpants</a></li>
+<li><a href="https://25-h.com/products/night-lab-fleece-black-grey">night lab fleece jacket</a></li>
+<li><a href="https://www.stussy.com/products/1975167-swim-out-zip-hoodie-black">stussy trumpet zip-up</a></li>
+</ul>
+<h2 id="misc">misc</h2>
+<ul>
+<li><a href="https://f1live.dpdns.org/">f1 live</a></li>
+</ul>
+]]></content:encoded>
     </item>
     
   </channel>
