@@ -2,6 +2,7 @@
 :root {
     --ef-bg: #272e33;
     --ef-bg-muted: #2d353b;
+    --ef-bg-green: #3C4841;
     --ef-fg: #d3c6aa;
     --ef-red: #e67e80;
     --ef-green: #a7c080;
@@ -188,13 +189,17 @@ ul {
     padding-inline-start: 2ch;
 }
 
-ul li {
-    text-indent: -2ch;
-}
+/* ul li { */
+/*     text-indent: -2ch; */
+/* } */
 
 ul>li::before {
     content: '* ';
     font-weight: bold;
+    color: var(--ef-red);
+}
+
+ol li::marker {
     color: var(--ef-red);
 }
 
@@ -240,28 +245,27 @@ code {
     background: var(--ef-fg);
     color: var(--ef-bg);
     padding: 0.1em 0.2em;
-    border-radius: 2px;
+    border-radius: 4px;
     font-size: 100%;
 }
 
 pre {
-    background: var(--ef-bg-muted);
-    color: inherit;
+    background: var(--ef-bg-green);
+    color: var(--ef-fg);
     line-height: 1.4;
     overflow-x: auto;
     padding: 1em;
-    border: 1px solid var(--ef-blue);
-    border-radius: var(--border-radius);
+    border: 2px solid var(--ef-green);
+    border-radius: 15px;
 }
 
 pre code {
-    background: transparent;
+    background: var(--ef-bg);
     padding: 0;
 }
 
 .highlight {
     position: relative;
-    background: var(--ef-bg-muted);
     border-radius: var(--border-radius);
     overflow: hidden;
     -webkit-overflow-scrolling: touch;
@@ -384,18 +388,6 @@ header .main a:focus {
     color: var(--ef-bg);
     outline: 2px solid var(--ef-green);
     outline-offset: 2px;
-}
-
-@keyframes smoothBlink {
-
-    0%,
-    10% {
-        opacity: 1;
-    }
-
-    100% {
-        opacity: 0;
-    }
 }
 
 /* Post Layout */
