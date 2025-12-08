@@ -10,7 +10,7 @@
     
     <copyright>© Michael Oliveira</copyright>
     
-    <lastBuildDate>Sun, 07 Dec 2025</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025</lastBuildDate>
     
         <atom:link href="https://michaelyodev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,7 +19,7 @@
     <item>
       <title>How Vim Broke My Brain (and Why You Should Try It)</title>
       <link>https://michaelyodev.github.io/posts/2025/12/how-vim-broke-my-brain-and-why-you-should-try-it/</link>
-      <pubDate>Sun, 07 Dec 2025</pubDate>
+      <pubDate>Sat, 06 Dec 2025</pubDate>
       
       <guid>https://michaelyodev.github.io/posts/2025/12/how-vim-broke-my-brain-and-why-you-should-try-it/</guid>
       <description>
@@ -98,6 +98,7 @@
 <p>Vim broke my brain. And honestly? I&rsquo;m better for it.</p>
 <p>Now if you&rsquo;ll excuse me, I have to go <code>dd</code> the memory of ever using a mouse again.</p>
 <p><code>:wq</code></p>
+<p><em>This post was adapted from a rhetoric assignment I wrote for AP English Language and Composition in my junior year of high school.</em></p>
 ]]></content:encoded>
     </item>
     
