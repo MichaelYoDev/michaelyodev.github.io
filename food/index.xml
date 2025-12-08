@@ -1,32 +1,5 @@
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>m1ch43ly0.dev</title>
-    <link>https://michaelyodev.github.io/food/</link>
-    <description><![CDATA[Recent posts on ]]>m1ch43ly0.dev<![CDATA['s site.]]></description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    
-    <copyright>© Michael Oliveira</copyright>
-    
-    <lastBuildDate>Fri, 07 Nov 2025</lastBuildDate>
-    
-        <atom:link href="https://michaelyodev.github.io/food/index.xml" rel="self" type="application/rss+xml" />
-    
-
-    
-    <item>
-      <title>coffee</title>
-      <link>https://michaelyodev.github.io/food/coffee/</link>
-      <pubDate>Fri, 07 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/food/coffee/</guid>
-      <description>
-          <![CDATA[List of coffee that I like.]]>
-        
-      </description>
-      <content:encoded><![CDATA[<p><em>This page contains coffee that I enjoy from various places. I currently do not drink much coffee, so this page will be populated slowly.</em></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>m1ch43ly0.dev</title><link>https://michaelyodev.github.io/food/</link><description>Recent posts on m1ch43ly0.dev's site.</description><generator>Hugo</generator><language>en-us</language><copyright>© Michael Oliveira</copyright><lastBuildDate>Fri, 07 Nov 2025</lastBuildDate><atom:link href="https://michaelyodev.github.io/food/index.xml" rel="self" type="application/rss+xml"/><item><title>coffee</title><link>https://michaelyodev.github.io/food/coffee/</link><pubDate>Fri, 07 Nov 2025</pubDate><guid>https://michaelyodev.github.io/food/coffee/</guid><description>
+List of coffee that I like.</description><content:encoded><![CDATA[<p><em>This page contains coffee that I enjoy from various places. I currently do not drink much coffee, so this page will be populated slowly.</em></p>
 <hr>
 <p>I do eventually want to make my own coffee. My father has an espresso machine which I have used occasionally, so when I have more expendable time and money I may look into it.</p>
 <h2 id="blue-bottle">blue bottle</h2>
@@ -42,8 +15,4 @@
 <li>peppermint mocha</li>
 <li>cold brew + chocolate (peppermint) cold foam</li>
 </ul>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

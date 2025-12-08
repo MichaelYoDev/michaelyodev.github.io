@@ -1,101 +1,14 @@
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>m1ch43ly0.dev</title>
-    <link>https://michaelyodev.github.io/</link>
-    <description><![CDATA[Recent posts on ]]>m1ch43ly0.dev<![CDATA['s site.]]></description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    
-    <copyright>© Michael Oliveira</copyright>
-    
-    <lastBuildDate>Sat, 06 Dec 2025</lastBuildDate>
-    
-        <atom:link href="https://michaelyodev.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-
-    
-    <item>
-      <title>Posts</title>
-      <link>https://michaelyodev.github.io/posts/</link>
-      <pubDate>Sat, 06 Dec 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/posts/</guid>
-      <description>
-          <![CDATA[]]>
-        
-      </description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Miscs</title>
-      <link>https://michaelyodev.github.io/misc/</link>
-      <pubDate>Mon, 17 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/misc/</guid>
-      <description>
-          <![CDATA[]]>
-        
-      </description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Gears</title>
-      <link>https://michaelyodev.github.io/gear/</link>
-      <pubDate>Mon, 10 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/gear/</guid>
-      <description>
-          <![CDATA[]]>
-        
-      </description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>map</title>
-      <link>https://michaelyodev.github.io/map/</link>
-      <pubDate>Mon, 10 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/map/</guid>
-      <description>
-          <![CDATA[]]>
-        
-      </description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Foods</title>
-      <link>https://michaelyodev.github.io/food/</link>
-      <pubDate>Fri, 07 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/food/</guid>
-      <description>
-          <![CDATA[]]>
-        
-      </description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://michaelyodev.github.io/about/</link>
-      <pubDate>Mon, 03 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/about/</guid>
-      <description>
-          <![CDATA[<h2 id="who-am-i">who am i?</h2>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>m1ch43ly0.dev</title><link>https://michaelyodev.github.io/</link><description>Recent posts on m1ch43ly0.dev's site.</description><generator>Hugo</generator><language>en-us</language><copyright>© Michael Oliveira</copyright><lastBuildDate>Mon, 08 Dec 2025</lastBuildDate><atom:link href="https://michaelyodev.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Miscs</title><link>https://michaelyodev.github.io/misc/</link><pubDate>Mon, 08 Dec 2025</pubDate><guid>https://michaelyodev.github.io/misc/</guid><description>
+</description><content:encoded></content:encoded></item><item><title>Posts</title><link>https://michaelyodev.github.io/posts/</link><pubDate>Sat, 06 Dec 2025</pubDate><guid>https://michaelyodev.github.io/posts/</guid><description>
+</description><content:encoded></content:encoded></item><item><title>Gears</title><link>https://michaelyodev.github.io/gear/</link><pubDate>Mon, 10 Nov 2025</pubDate><guid>https://michaelyodev.github.io/gear/</guid><description>
+</description><content:encoded></content:encoded></item><item><title>map</title><link>https://michaelyodev.github.io/map/</link><pubDate>Mon, 10 Nov 2025</pubDate><guid>https://michaelyodev.github.io/map/</guid><description>
+</description><content:encoded></content:encoded></item><item><title>Foods</title><link>https://michaelyodev.github.io/food/</link><pubDate>Fri, 07 Nov 2025</pubDate><guid>https://michaelyodev.github.io/food/</guid><description>
+</description><content:encoded></content:encoded></item><item><title>about</title><link>https://michaelyodev.github.io/about/</link><pubDate>Mon, 03 Nov 2025</pubDate><guid>https://michaelyodev.github.io/about/</guid><description>
+<![CDATA[<h2 id="who-am-i">who am i?</h2>
 <p>I am a <code>Taiwanese-Brazilian-American</code> (🇹🇼🇧🇷🇺🇸) musician and programmer. Currently a high-school senior, residing in the United States of America.</p>
 <h2 id="why-make-this-site">why make this site?</h2>
 <p>For the past few years, I have been writing things down in my journal, which wasn&rsquo;t always on me. I wanted to have a place where I could store my musings, explorations, and discoveries.</p>
-<p>I have always been somewhat of an analog person, not really accompanying trends or being big on social media. When I discovered the concept of a <a href="https://joelhooks.com/digital-garden/">digital garden</a>, a website made not for sharing online but as a collection of notes and ideas for myself, I knew I had to join the movement and explore the roots of what the web was made for.</p>]]>
-        
-      </description>
-      <content:encoded><![CDATA[<h2 id="who-am-i">who am i?</h2>
+<p>I have always been somewhat of an analog person, not really accompanying trends or being big on social media. When I discovered the concept of a <a href="https://joelhooks.com/digital-garden/">digital garden</a>, a website made not for sharing online but as a collection of notes and ideas for myself, I knew I had to join the movement and explore the roots of what the web was made for.</p>]]></description><content:encoded><![CDATA[<h2 id="who-am-i">who am i?</h2>
 <p>I am a <code>Taiwanese-Brazilian-American</code> (🇹🇼🇧🇷🇺🇸) musician and programmer. Currently a high-school senior, residing in the United States of America.</p>
 <h2 id="why-make-this-site">why make this site?</h2>
 <p>For the past few years, I have been writing things down in my journal, which wasn&rsquo;t always on me. I wanted to have a place where I could store my musings, explorations, and discoveries.</p>
@@ -103,8 +16,6 @@
 <h2 id="inspiration">inspiration</h2>
 <p>The first ever blog I stumbled upon was the blog of <a href="https://www.woodbetween.world/">Reece</a>. His blog has writings on a variety of topics from <em>the Lord of the Rings</em> to the property of spin in subatomic particles. It opened my eyes to the realization that writing, even about random topics, can be interesting and even fun to read and write.</p>
 <p>Recently, I discovered the website of <a href="https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com/">Marius</a>, as well as the <a href="https://webring.xxiivv.com/m1ch43ly0">Merveilles webring</a>. There, I discovered the simplicity that personal sites and blogs can have while still containing lots of character.</p>
-<h2 id="how-was-this-site-made">how was this site made?</h2>
-<p>This website was made using <a href="https://gohugo.io/">Hugo</a> and a heavily modified version of the <a href="https://github.com/athul/archie">Archie</a> theme. I played with the idea of having a simple <a href="https://motherfuckingwebsite.com/">motherf*cking website</a> with just html and css, but I found Hugo to be very fun to work with.</p>
 <h2 id="where-to-start">where to start?</h2>
 <p>Check out:</p>
 <ul>
@@ -112,8 +23,4 @@
 <li>my <a href="/posts/">blog posts</a> (filtered by <a href="/tags/">tags</a>)</li>
 <li>my <a href="/misc/links/">bookmarks</a></li>
 </ul>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

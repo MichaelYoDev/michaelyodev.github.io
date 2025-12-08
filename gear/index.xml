@@ -1,34 +1,7 @@
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>m1ch43ly0.dev</title>
-    <link>https://michaelyodev.github.io/gear/</link>
-    <description><![CDATA[Recent posts on ]]>m1ch43ly0.dev<![CDATA['s site.]]></description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    
-    <copyright>© Michael Oliveira</copyright>
-    
-    <lastBuildDate>Mon, 10 Nov 2025</lastBuildDate>
-    
-        <atom:link href="https://michaelyodev.github.io/gear/index.xml" rel="self" type="application/rss+xml" />
-    
-
-    
-    <item>
-      <title>cameras</title>
-      <link>https://michaelyodev.github.io/gear/cameras/</link>
-      <pubDate>Mon, 10 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/gear/cameras/</guid>
-      <description>
-          <![CDATA[<p>Photography is a hobby that I have gotten into recently, initially just on my phone camera. My parents had a few old digital cameras lying around, so they became the start of my collection.</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>m1ch43ly0.dev</title><link>https://michaelyodev.github.io/gear/</link><description>Recent posts on m1ch43ly0.dev's site.</description><generator>Hugo</generator><language>en-us</language><copyright>© Michael Oliveira</copyright><lastBuildDate>Mon, 10 Nov 2025</lastBuildDate><atom:link href="https://michaelyodev.github.io/gear/index.xml" rel="self" type="application/rss+xml"/><item><title>cameras</title><link>https://michaelyodev.github.io/gear/cameras/</link><pubDate>Mon, 10 Nov 2025</pubDate><guid>https://michaelyodev.github.io/gear/cameras/</guid><description>
+<![CDATA[<p>Photography is a hobby that I have gotten into recently, initially just on my phone camera. My parents had a few old digital cameras lying around, so they became the start of my collection.</p>
 <p>Additionally, <a href="https://www.youtube.com/@Schlanman">Schlanman</a>&rsquo;s hard photos series inspired me, as his photos—some on a Powershot like mine—do indeed go hard.</p>
-<p>Eventually, I hope to procure a <a href="https://www.fujifilm-x.com/en-us/products/cameras/x100vi/">better digital camera</a>, as well as a larger DSLR or mirrorless camera where I can interchange lenses.</p>]]>
-        
-      </description>
-      <content:encoded><![CDATA[<p>Photography is a hobby that I have gotten into recently, initially just on my phone camera. My parents had a few old digital cameras lying around, so they became the start of my collection.</p>
+<p>Eventually, I hope to procure a <a href="https://www.fujifilm-x.com/en-us/products/cameras/x100vi/">better digital camera</a>, as well as a larger DSLR or mirrorless camera where I can interchange lenses.</p>]]></description><content:encoded><![CDATA[<p>Photography is a hobby that I have gotten into recently, initially just on my phone camera. My parents had a few old digital cameras lying around, so they became the start of my collection.</p>
 <p>Additionally, <a href="https://www.youtube.com/@Schlanman">Schlanman</a>&rsquo;s hard photos series inspired me, as his photos—some on a Powershot like mine—do indeed go hard.</p>
 <p>Eventually, I hope to procure a <a href="https://www.fujifilm-x.com/en-us/products/cameras/x100vi/">better digital camera</a>, as well as a larger DSLR or mirrorless camera where I can interchange lenses.</p>
 <h2 id="canon-powershot-sd1200-is">Canon PowerShot SD1200 IS</h2>
@@ -55,17 +28,8 @@
 <p>It has a 7.2-megapixel 1/1.8-inch Super HAD CCD sensor—larger than the 1/2.3-inch chips in my other two cameras—and a Carl Zeiss Vario-Tessar 7.9–23.7 mm lens (38–114 mm equivalent) with 3x optical zoom and f/2.8–5.2 aperture. It has a 2.5-inch LCD screen, as well as an optical viewfinder.</p>
 <p>It is a bit larger than the Powershot (3.58 x 2.36 x 1.46 inches) and about 253 grams with two AA batteries. I do love its blocky feel though.</p>
 <p>Unfortunately, I do not yet have an adapter for the Sony Memory Stick, so I cannot get photos off of the camera. Once I do, I’m excited to see how this camera&rsquo;s photos compare to the others.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>computers</title>
-      <link>https://michaelyodev.github.io/gear/computers/</link>
-      <pubDate>Sun, 09 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/gear/computers/</guid>
-      <description>
-          <![CDATA[<div class='callout callout-warning' style=''>
+]]></content:encoded></item><item><title>computers</title><link>https://michaelyodev.github.io/gear/computers/</link><pubDate>Sun, 09 Nov 2025</pubDate><guid>https://michaelyodev.github.io/gear/computers/</guid><description>
+<![CDATA[<div class='callout callout-warning' style=''>
     <div class="callout-inner">
         
         ⚠️ <u>Warning</u>
@@ -83,10 +47,7 @@
 </figure>
 
 <p>My daily driver is a 2025 13-inch MacBook Air with the M4 chip.</p>
-<h2 id="v45h3r">v45h3r</h2>]]>
-        
-      </description>
-      <content:encoded><![CDATA[
+<h2 id="v45h3r">v45h3r</h2>]]></description><content:encoded><![CDATA[
 <div class='callout callout-warning' style=''>
     <div class="callout-inner">
         
@@ -106,49 +67,25 @@
 
 <p>My daily driver is a 2025 13-inch MacBook Air with the M4 chip.</p>
 <h2 id="v45h3r">v45h3r</h2>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>gear</title>
-      <link>https://michaelyodev.github.io/gear/gear/</link>
-      <pubDate>Sun, 09 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/gear/gear/</guid>
-      <description>
-          <![CDATA[<ul>
+]]></content:encoded></item><item><title>gear</title><link>https://michaelyodev.github.io/gear/gear/</link><pubDate>Sun, 09 Nov 2025</pubDate><guid>https://michaelyodev.github.io/gear/gear/</guid><description>
+<![CDATA[<ul>
 <li><a href="/gear/cameras/">cameras</a></li>
 <li><a href="/gear/computers/">computers</a></li>
 <li><a href="/gear/keyboards/">keyboards</a></li>
-</ul>]]>
-        
-      </description>
-      <content:encoded><![CDATA[<ul>
+</ul>]]></description><content:encoded><![CDATA[<ul>
 <li><a href="/gear/cameras/">cameras</a></li>
 <li><a href="/gear/computers/">computers</a></li>
 <li><a href="/gear/keyboards/">keyboards</a></li>
 </ul>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>keyboards</title>
-      <link>https://michaelyodev.github.io/gear/keyboards/</link>
-      <pubDate>Sun, 09 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/gear/keyboards/</guid>
-      <description>
-          <![CDATA[<h2 id="corne-41">Corne 4.1</h2>
+]]></content:encoded></item><item><title>keyboards</title><link>https://michaelyodev.github.io/gear/keyboards/</link><pubDate>Sun, 09 Nov 2025</pubDate><guid>https://michaelyodev.github.io/gear/keyboards/</guid><description>
+<![CDATA[<h2 id="corne-41">Corne 4.1</h2>
 <figure><img src="/images/gear/keyboards/keeb.avif"><figcaption>
       <h4>my Corne 4.1</h4>
     </figcaption>
 </figure>
 
 <p>After sitting through and taking notes on a <a href="https://www.youtube.com/@heimlershistory">Heimler&rsquo;s History</a> livestream for AP U.S. History, typing for several hours straight, I began suffering from wrist pain due to the angle my wrists had to be at to type on my mechanical keyboard at the time.</p>
-<p>The Corne keyboard feels amazing to type on, both because of the ortholinear design and the ability to position that halves as I see fit.</p>]]>
-        
-      </description>
-      <content:encoded><![CDATA[<h2 id="corne-41">Corne 4.1</h2>
+<p>The Corne keyboard feels amazing to type on, both because of the ortholinear design and the ability to position that halves as I see fit.</p>]]></description><content:encoded><![CDATA[<h2 id="corne-41">Corne 4.1</h2>
 <figure><img src="/images/gear/keyboards/keeb.avif"><figcaption>
       <h4>my Corne 4.1</h4>
     </figcaption>
@@ -178,8 +115,4 @@
 <li>The keys are extremely wobbly</li>
 <li>The sound is very high-pitched and too clacky for my taste</li>
 </ul>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

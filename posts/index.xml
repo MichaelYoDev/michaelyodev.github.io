@@ -1,32 +1,5 @@
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>m1ch43ly0.dev</title>
-    <link>https://michaelyodev.github.io/posts/</link>
-    <description><![CDATA[Recent posts on ]]>m1ch43ly0.dev<![CDATA['s site.]]></description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    
-    <copyright>© Michael Oliveira</copyright>
-    
-    <lastBuildDate>Sat, 06 Dec 2025</lastBuildDate>
-    
-        <atom:link href="https://michaelyodev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-
-    
-    <item>
-      <title>How Vim Broke My Brain (and Why You Should Try It)</title>
-      <link>https://michaelyodev.github.io/posts/2025/12/how-vim-broke-my-brain-and-why-you-should-try-it/</link>
-      <pubDate>Sat, 06 Dec 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/posts/2025/12/how-vim-broke-my-brain-and-why-you-should-try-it/</guid>
-      <description>
-          <![CDATA[A retelling of my Vim learning experience, and why you should try it too.]]>
-        
-      </description>
-      <content:encoded><![CDATA[<p><code>hhhhjjjkkklllllhhlhjkkkjjjj5wxxd5jxkkkkk:wq</code></p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>m1ch43ly0.dev</title><link>https://michaelyodev.github.io/posts/</link><description>Recent posts on m1ch43ly0.dev's site.</description><generator>Hugo</generator><language>en-us</language><copyright>© Michael Oliveira</copyright><lastBuildDate>Sat, 06 Dec 2025</lastBuildDate><atom:link href="https://michaelyodev.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>How Vim Broke My Brain (and Why You Should Try It)</title><link>https://michaelyodev.github.io/posts/2025/12/how-vim-broke-my-brain-and-why-you-should-try-it/</link><pubDate>Sat, 06 Dec 2025</pubDate><guid>https://michaelyodev.github.io/posts/2025/12/how-vim-broke-my-brain-and-why-you-should-try-it/</guid><description>
+A retelling of my Vim learning experience, and why you should try it too.</description><content:encoded><![CDATA[<p><code>hhhhjjjkkklllllhhlhjkkkjjjj5wxxd5jxkkkkk:wq</code></p>
 <p>No, my dog did not walk across my keyboard. That was me, in my first few hours of Vim, desperately trying to escape a blank Neovim buffer.</p>
 <h2 id="the-before-times">The Before Times</h2>
 <p>I started programming in 7th grade. Like most beginners, my setup was <a href="https://code.visualstudio.com/">VS Code</a>, a mouse, and the arrow keys. It worked, but something always felt off.</p>
@@ -99,20 +72,8 @@
 <p>Now if you&rsquo;ll excuse me, I have to go <code>dd</code> the memory of ever using a mouse again.</p>
 <p><code>:wq</code></p>
 <p><em>This post was adapted from a rhetoric assignment I wrote for AP English Language and Composition in my junior year of high school.</em></p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Remembering Marching Band</title>
-      <link>https://michaelyodev.github.io/posts/2025/12/remembering-marching-band/</link>
-      <pubDate>Fri, 05 Dec 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/posts/2025/12/remembering-marching-band/</guid>
-      <description>
-          <![CDATA[My feelings and thoughts after my last high school marching band competition.]]>
-        
-      </description>
-      <content:encoded><![CDATA[<p>November 23rd, 2025. WBA Grand Championships. My last day of high school marching band.</p>
+]]></content:encoded></item><item><title>Remembering Marching Band</title><link>https://michaelyodev.github.io/posts/2025/12/remembering-marching-band/</link><pubDate>Fri, 05 Dec 2025</pubDate><guid>https://michaelyodev.github.io/posts/2025/12/remembering-marching-band/</guid><description>
+My feelings and thoughts after my last high school marching band competition.</description><content:encoded><![CDATA[<p>November 23rd, 2025. WBA Grand Championships. My last day of high school marching band.</p>
 <p>I started crying in Part 4, during the drum break. After my flugelhorn solo, I knelt on the sideline while the rest of the brass did their dance break. When they turned and looked toward me, seeing their smiling faces started the waterworks. Later, during the outro after Part 5 where my line ran one of the river tarps around the field, the tears would not stop. At the last hold, I could hear people from the color guard sobbing.</p>
 <p>I remember our last moments on the field: feeling the emotions overcome me, trying and failing to maintain a smile for the audience as the tears flowed. Then, as we began pushing off the field, I remember yelling with joy, hugging my closest friends, and feeling a mixture of pride and sorrow. Proud of our band putting on the best performance we could have done. Sad that my high school marching band career was over.</p>
 <p>Thinking about those final moments on the field, I remember the same events my freshman year. The same pride and sorrow. At the time, I did not think any other year would surpass it. That was my first year in marching band, and it left a lasting impression on me. My senior year, though, was even better.</p>
@@ -133,20 +94,8 @@
     </div>
 </div>
 
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Music of Reflection</title>
-      <link>https://michaelyodev.github.io/posts/2025/11/music-of-reflection/</link>
-      <pubDate>Fri, 14 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/posts/2025/11/music-of-reflection/</guid>
-      <description>
-          <![CDATA[How music can capture emotions and memories, with several examples.]]>
-        
-      </description>
-      <content:encoded><![CDATA[<h2 id="music-to-me">Music, to me.</h2>
+]]></content:encoded></item><item><title>Music of Reflection</title><link>https://michaelyodev.github.io/posts/2025/11/music-of-reflection/</link><pubDate>Fri, 14 Nov 2025</pubDate><guid>https://michaelyodev.github.io/posts/2025/11/music-of-reflection/</guid><description>
+How music can capture emotions and memories, with several examples.</description><content:encoded><![CDATA[<h2 id="music-to-me">Music, to me.</h2>
 <p><em>“Music is a universal language”</em> is a phrase I have heard endlessly, but which has always rung hollow.</p>
 <p><em>How can I actually talk to someone with music?</em> young me wondered. <em>Does that mean I don’t need to learn English?</em></p>
 <p>For me, a more accurate version is: <em>&ldquo;Music is a medium to express and share emotions&rdquo;</em>. Let me show what I mean.</p>
@@ -173,20 +122,8 @@
 <h2 id="final-thoughts">Final Thoughts</h2>
 <p>Each of these pieces marks a different chapter in my life, and different emotions I have felt throughout it: moments of longing, of connection, of healing. Music has a way of holding time still, of letting us return to who we once were, and who we are, and who we will become.</p>
 <p>These three pieces are a small selection from my <em>reflection</em> playlist, where each piece or song carries a memory or emotion that is special to me.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>A Dream of Love and Joy</title>
-      <link>https://michaelyodev.github.io/posts/2025/11/a-dream-of-love-and-joy/</link>
-      <pubDate>Wed, 05 Nov 2025</pubDate>
-      
-      <guid>https://michaelyodev.github.io/posts/2025/11/a-dream-of-love-and-joy/</guid>
-      <description>
-          <![CDATA[A recounting of a dream I had about love and joy, and the subsequent loss of it upon waking.]]>
-        
-      </description>
-      <content:encoded><![CDATA[<p>The memories are … fuzzy.</p>
+]]></content:encoded></item><item><title>A Dream of Love and Joy</title><link>https://michaelyodev.github.io/posts/2025/11/a-dream-of-love-and-joy/</link><pubDate>Wed, 05 Nov 2025</pubDate><guid>https://michaelyodev.github.io/posts/2025/11/a-dream-of-love-and-joy/</guid><description>
+A recounting of a dream I had about love and joy, and the subsequent loss of it upon waking.</description><content:encoded><![CDATA[<p>The memories are … fuzzy.</p>
 <p>I can see her face, half-lit by the dream’s last streetlamp. I remember the clothes she wore, and the feeling of her wool coat brushing my wrist as we walked, hand in hand. I can feel the soft touch of her fingers on my cheek. I can picture the slight redness of her nose and cheeks from the cold, along with her beautiful smile. I can taste the meal we shared at the restaurant. I can hear the click of her camera, an old digital camera that looked like a Fujifilm.</p>
 <p>I woke feeling joy. True joy. And love. The kind that inspires the butterflies in your stomach to flutter to their hearts’ content.</p>
 <p>Then the details slipped, the memories faded, and the joy dissipated into the old familiar hush of my bedroom.</p>
@@ -195,8 +132,4 @@
 <p>I do not know why God showed me what He did. All I know is that, through the pain and sadness, I look forward to the joy and love I will experience someday.</p>
 <p>Someday.</p>
 <p>Until then.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>
