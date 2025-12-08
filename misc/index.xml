@@ -1,4 +1,22 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>m1ch43ly0.dev</title><link>https://michaelyodev.github.io/misc/</link><description>Recent posts on m1ch43ly0.dev's site.</description><generator>Hugo</generator><language>en-us</language><copyright>© Michael Oliveira</copyright><lastBuildDate>Mon, 08 Dec 2025</lastBuildDate><atom:link href="https://michaelyodev.github.io/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>gallery</title><link>https://michaelyodev.github.io/misc/gallery/</link><pubDate>Mon, 17 Nov 2025</pubDate><guid>https://michaelyodev.github.io/misc/gallery/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>m1ch43ly0.dev</title><link>https://michaelyodev.github.io/misc/</link><description>Recent posts on m1ch43ly0.dev's site.</description><generator>Hugo</generator><language>en-us</language><copyright>© Michael Oliveira</copyright><lastBuildDate>Mon, 08 Dec 2025</lastBuildDate><atom:link href="https://michaelyodev.github.io/misc/index.xml" rel="self" type="application/rss+xml"/><item><title>colophon</title><link>https://michaelyodev.github.io/misc/colophon/</link><pubDate>Mon, 08 Dec 2025</pubDate><guid>https://michaelyodev.github.io/misc/colophon/</guid><description>
+How this site was made, what it’s built with, and why I did it this way.</description><content:encoded><![CDATA[<p>This site is powered by <a href="https://gohugo.io/">Hugo</a>, the static-site generator.</p>
+<p>It runs a heavily modified version of the <a href="https://github.com/athul/archie">Archie theme</a>. I started with Archie because it’s minimal and Markdown-inspired, but I have since changed it to match my tastes and uses.</p>
+<p>I seriously considered going full <a href="https://motherfuckingwebsite.com/">motherfu*kingwebsite.com</a>: just raw HTML and CSS, no build step, no JavaScript. It’s still tempting, but Hugo is stupidly fast, the templating is delightful, and I get to write everything in Markdown. So here we are.</p>
+<p>Everything is written in my editor of choice, Neovim.</p>
+<h3 id="technical-details">Technical details</h3>
+<ul>
+<li>Built with <code>hugo --minify --gc</code></li>
+<li>Zero JavaScript</li>
+<li>Monospace system stack only: <code>Menlo, Monaco, &quot;Courier New&quot;, Consolas, &quot;Liberation Mono&quot;, &quot;Lucida Console&quot;, monospace</code></li>
+<li>Colors from the <a href="https://github.com/sainnhe/everforest">Everforest</a> theme</li>
+<li>Single CSS file</li>
+<li>Images (rare) are .avif, compressed with ShortPixel</li>
+<li>No web fonts, no cookies, no analytics, no trackers, no telemetry</li>
+</ul>
+<p>Privacy should be the default, not a feature.</p>
+<p>It loads instantly and wastes nothing.</p>
+<p>Built with love, coffee, and the intent to keep things small.</p>
+]]></content:encoded></item><item><title>gallery</title><link>https://michaelyodev.github.io/misc/gallery/</link><pubDate>Mon, 17 Nov 2025</pubDate><guid>https://michaelyodev.github.io/misc/gallery/</guid><description>
 </description><content:encoded></content:encoded></item><item><title>links</title><link>https://michaelyodev.github.io/misc/links/</link><pubDate>Wed, 05 Nov 2025</pubDate><guid>https://michaelyodev.github.io/misc/links/</guid><description>
 <![CDATA[<p><em>This page is an ever-changing collection of links I find interesting or want to read later.</em></p>
 <h2 id="blogs--sites">blogs / sites</h2>
