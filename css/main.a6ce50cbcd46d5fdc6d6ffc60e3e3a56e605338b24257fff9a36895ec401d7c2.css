@@ -371,7 +371,6 @@ header {
     align-items: center;
     margin-top: 2em;
     margin-bottom: 1em;
-    /* margin-block: 1em; */
     line-height: 2.5em;
     gap: 1rem;
 }
@@ -462,10 +461,20 @@ footer {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    border-top: 0.2rem solid var(--ef-muted);
-    padding-block-start: 2rem;
-    margin-block-start: 2rem;
+    /* background: var(--ef-bg-green); */
+    border-top: 0.15rem solid var(--ef-muted);
+    padding-block: 2rem;
+    margin-top: auto;
     gap: 0.5rem;
+}
+
+.footer-icons {
+    display: flex;
+    justify-content: center;
+    line-height: 1em;
+    gap: 1rem;
+    flex-wrap: wrap;
+    width: 100%;
 }
 
 .footer-buttons {
@@ -513,19 +522,6 @@ footer {
 
 a.soc img {
     border: none;
-}
-
-/* Divider */
-.border {
-    margin-inline: 0.5rem;
-    border: 1px solid var(--ef-green);
-}
-
-.border:hover,
-.border:focus {
-    background: transparent;
-    color: inherit;
-    outline: none;
 }
 
 /* Components */
