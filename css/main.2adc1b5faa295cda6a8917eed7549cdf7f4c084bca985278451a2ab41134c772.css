@@ -45,7 +45,6 @@ html {
 }
 
 body {
-    margin: 8px;
     background-color: var(--ef-bg);
     color: var(--ef-fg);
     transition: background-color 0.2s ease, color 0.2s ease;
