@@ -110,16 +110,16 @@ h4,
 h5,
 h6 {
     color: var(--ef-fg);
-    margin-block: 2em 0.5em;
+    margin-block: 1.5em 0.5em;
     line-height: 1.2;
 }
 
 h1 {
-    font-size: 1.8em;
+    font-size: 1.7em;
 }
 
 h2 {
-    font-size: 1.4em;
+    font-size: 1.35em;
 }
 
 h3,
