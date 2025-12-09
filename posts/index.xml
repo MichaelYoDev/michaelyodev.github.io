@@ -15,8 +15,8 @@ A retelling of my Vim learning experience, and why you should try it too.</descr
 <p>It was exhausting. I felt like I was doing finger gymnastics just to write a for-loop.</p>
 <p>My dad, on the other hand, was a different species of programmer. I&rsquo;d watch him hammer away for hours with this constant clack-clack-clack from his absurdly loud mechanical keyboard, never touching a mouse. One day I asked what editor he used.</p>
 <p>His exact words that would change my life, delivered with the smug satisfaction only a true programmer can muster, were:</p>
-<p><code>&quot;I use Vim, btw.&quot;</code></p>
-<h2 id="the-youtube-rabbit-hole">The YouTube Rabbit Hole</h2>
+<pre tabindex="0"><code class="language-none" data-lang="none">&#34;I use Vim, btw.&#34;
+</code></pre><h2 id="the-youtube-rabbit-hole">The YouTube Rabbit Hole</h2>
 <p>Fast forward a couple of years. I was deep into programmer YouTube, from <a href="https://www.youtube.com/@Fireship/">Fireship&rsquo;s</a> 100-second videos to <a href="https://www.youtube.com/@ThePrimeagen">ThePrimeagen</a> flying around his editor like he&rsquo;s possessed by the ghost of <a href="https://en.wikipedia.org/wiki/Ken_Thompson">Ken Thompson</a>. Every other video I saw mentioned Vim. The memes were relentless:</p>
 <ul>
 <li>&ldquo;Only real programmers use Vim&rdquo;</li>
@@ -24,7 +24,7 @@ A retelling of my Vim learning experience, and why you should try it too.</descr
 <li>The eternal &ldquo;HOW DO I EXIT VIM???&rdquo; panic</li>
 </ul>
 <p>Eventually the peer pressure won. I installed <a href="https://neovim.io/">Neovim</a>, cracked my knuckles, and typed the fateful command:</p>
-<div class="highlight"><pre tabindex="0" style="color:#3c3836;background-color:#fbf1c7;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nvim
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">nvim
 </span></span></code></pre></div><h2 id="the-trauma">The Trauma</h2>
 <p>My screen went blank. Nothing worked.</p>
 <ul>
