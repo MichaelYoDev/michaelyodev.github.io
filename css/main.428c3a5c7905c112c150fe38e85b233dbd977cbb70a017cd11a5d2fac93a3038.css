@@ -32,7 +32,7 @@
 
 html {
     color: var(--ef-fg);
-    font-family: Menlo, Monaco, "Courier New", Consolas, "Liberation Mono", "Lucida Console", monospace;
+    font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
     font-size: var(--font-size-base);
     line-height: var(--line-height-base);
     scroll-behavior: smooth;
@@ -60,7 +60,7 @@ body {
 
 /* Typography */
 p {
-    font-weight: thin;
+    font-weight: normal;
     line-height: var(--line-height-content);
     margin: 0.5em 0;
 }
@@ -247,8 +247,8 @@ figure h4::before {
 code {
     background: var(--ef-bg-green);
     color: var(--ef-fg);
-    padding: 0.1em 0.15em;
-    border: 2px solid var(--ef-green);
+    padding: 0em 0.15em;
+    border: 1.75px solid var(--ef-green);
     font-size: 100%;
 }
 
@@ -258,7 +258,7 @@ pre {
     line-height: 1.4;
     overflow-x: auto;
     padding: 0.75em;
-    border: 2px solid var(--ef-green);
+    border: 1.75px solid var(--ef-green);
 }
 
 pre code {
@@ -469,7 +469,7 @@ header .main a:focus {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
+    gap: 1rem;
     text-align: center;
 }
 
@@ -488,15 +488,19 @@ header .main a:focus {
     object-fit: contain;
     border-width: 0px;
     filter: invert(95%) sepia(9%) saturate(832%) hue-rotate(341deg) brightness(88%) contrast(86%);
+    transition: filter .15s, transform .15s;
 }
 
 .footer-social a {
     border-block-end: 0px;
+    outline: none !important;
+    background: var(--ef-bg) !important;
+    outline-offset: 0px;
 }
 
 .footer-social img:hover {
-    filter: none;
-    transition: filter 0s;
+    filter: brightness(0) saturate(100%) invert(75%) sepia(41%) saturate(291%) hue-rotate(42deg) brightness(92%) contrast(86%);
+    transform: scale(1.5);
 }
 
 /* Link styling */
@@ -528,6 +532,9 @@ header .main a:focus {
 }
 
 .footer-badges a {
+    outline: none !important;
+    background: var(--ef-bg) !important;
+    outline-offset: 0px;
     border-width: 0px;
 }
 
@@ -535,7 +542,7 @@ header .main a:focus {
     background: none;
     color: inherit;
     outline: none;
-    transform: scale(1.05);
+    transform: scale(1.15);
 }
 
 /* Footer bottom text */
@@ -657,16 +664,20 @@ nav {
     align-items: center;
     gap: 1rem;
     line-height: 1.4em;
+    border: 2px solid transparent;
+    padding: 0.1em 0.2em;
 }
 
 
 nav a.active {
-    color: var(--ef-bg) !important;
-    background: var(--ef-fg) !important;
+    background: var(--ef-bg-green);
+    color: var(--ef-fg);
+    border: 2px solid var(--ef-green);
 }
 
 nav a.active:hover {
     background: var(--ef-green) !important;
+    color: var(--ef-bg);
 }
 
 /* Icons */
