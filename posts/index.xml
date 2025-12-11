@@ -44,7 +44,7 @@ A retelling of my Vim learning experience, and why you should try it too.</descr
 </ul>
 <p>It felt wrong, like trying to play piano with my elbows. My muscle memory screamed in protest.</p>
 <p>But then&hellip; something clicked.</p>
-<p>I learned you could prefix motions with numbers: <code>5j</code> goes down 5 lines, <code>10k</code> goes up 10. I learned the basic modes: <code>Normal</code> (used to move around), <code>Insert</code> (used to type), and <code>Visual</code> (used to select text). I discovered macros (record a sequence once, replay it forever with <code>@</code>). I even found netrw, Vim&rsquo;s built-in file explorer.</p>
+<p>I learned you could prefix motions with numbers: <code>5j</code> goes down 5 lines, <code>10k</code> goes up 10. I learned the basic modes: <code>Normal</code> (used to move around), <code>Insert</code> (used to type), and <code>Visual</code> (used to select text). I discovered macros (record a sequence once, replay it forever with <code>@</code>). I even found netrw, Vim&rsquo;s built-in file explorer. So many other motions made it extremely easy and fast to navigate a file.</p>
 <p>Within a week I caught myself trying to <code>5j6w</code> my way through Google Docs for a school essay.</p>
 <p>Everything felt&hellip; creamy. (You&rsquo;ll only understand that word if you&rsquo;ve experienced the same brain rewrite.)</p>
 <p>Suddenly I was not fighting my tools anymore. My hands and brain were finally speaking the same language. I could think &ndash;&gt; type &ndash;&gt; execute at something close to the speed of thought.</p>
