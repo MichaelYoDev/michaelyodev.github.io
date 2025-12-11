@@ -2,6 +2,7 @@
 :root {
     --ef-bg: #272e33;
     --ef-bg-muted: #2d353b;
+    --ef-bg-lighter: #374145;
     --ef-bg-green: #3C4841;
     --ef-fg: #d3c6aa;
     --ef-red: #e67e80;
@@ -872,8 +873,8 @@ article .title {
     transition: all 0.25s ease;
 }
 
-.micro-card:hover {
-    background: #30383f;
+.micro-card--latest {
+    background: var(--ef-bg-lighter);
     border-color: var(--ef-green);
     transform: translateY(-3px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
