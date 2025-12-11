@@ -850,3 +850,83 @@ article .title {
         gap: 0.5rem;
     }
 }
+
+/* MICRO BLOG */
+.micro-board {
+    column-count: 2;
+    column-gap: 1.4rem;
+    margin-top: 2rem;
+    orphans: 1;
+    widows: 1;
+}
+
+.micro-card {
+    background: var(--ef-bg-muted);
+    border: 1px solid var(--ef-muted);
+    border-radius: 16px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1.4rem;
+    break-inside: avoid;
+    display: inline-block;
+    width: 100%;
+    transition: all 0.25s ease;
+}
+
+.micro-card:hover {
+    background: #30383f;
+    border-color: var(--ef-green);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.35);
+}
+
+/* Responsive columns */
+@media (max-width: 640px) {
+    .micro-board {
+        column-count: 1;
+    }
+
+    .micro-card {
+        padding: 1.1rem 1.2rem;
+    }
+}
+
+.micro-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.9rem;
+    margin-bottom: 0.8rem;
+    position: relative;
+}
+
+.micro-user strong {
+    color: var(--ef-fg);
+    font-weight: 700;
+    font-size: 1.02rem;
+    display: block;
+}
+
+.handle {
+    color: var(--ef-muted);
+    font-size: 0.94rem;
+}
+
+.micro-date {
+    position: absolute;
+    top: 0.6rem;
+    right: 0;
+    font-size: 0.9rem;
+    color: var(--ef-muted);
+}
+
+.micro-body {
+    font-size: 1rem;
+    color: var(--ef-fg);
+}
+
+.micro-body p {
+    margin: 0.4em 0;
+}
+
+.micro-body p:last-child {
+    margin-bottom: 0;
+}
