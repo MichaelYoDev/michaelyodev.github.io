@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>m1ch43ly0.dev</title><link>https://michaelyodev.github.io/posts/</link><description>Recent posts on m1ch43ly0.dev's site.</description><generator>Hugo</generator><language>en-us</language><copyright>© Michael Oliveira</copyright><lastBuildDate>Fri, 12 Dec 2025</lastBuildDate><atom:link href="https://michaelyodev.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>What Is This Website?</title><link>https://michaelyodev.github.io/posts/2025/12/what-is-this-website/</link><pubDate>Fri, 12 Dec 2025</pubDate><guid>https://michaelyodev.github.io/posts/2025/12/what-is-this-website/</guid><description>
 A short note on what this website actually is (and what it refuses to become).</description><content:encoded><![CDATA[<p>This website was created on November 4th, 2025. Depending on when you are reading this, that may have been very recently or a long time ago.</p>
-<p>In his keynote <em><a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">The Garden and the Stream: A Technopastoral</a></em>, Mike Caulfield describes two different philosophies for the web: the Garden and the Stream.</p>
-<p>The Garden is topology, links, slow growth, evergreen notes, things arranged next to each other instead of in a timeline.</p>
+<p>In his 2015 keynote <a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/"><em>The Garden and the Stream: A Technopastoral</em></a>, Mike Caulfield describes two different philosophies for the web: the <code>Garden</code> and the <code>Stream</code>.</p>
+<p>The <code>Garden</code> is topology, links, slow growth, evergreen notes, things arranged next to each other instead of in a timeline.</p>
 <p>In a true garden, you walk around. You follow a path because one thought feels close to another, not because it was posted last Tuesday. Nothing is ever truly &ldquo;old&rdquo;; it just sits there quietly until someone stumbles across it again and decides to water it. Dates, if they exist at all, are secondary. The hshape of the space matters more than the arrow of time.</p>
 <p>My website borrows a few habits from the garden.</p>
 <ul>
@@ -11,8 +11,8 @@ A short note on what this website actually is (and what it refuses to become).</
 <li>Every page on my website can be updated, tended to. I can come back and edit an old post, add a paragraph, fix a broken thought, and the <code>updated on</code> line at the bottom quietly changes.</li>
 <li>Pages are connected to each other through <a href="/tags/">tags</a> and manual links.</li>
 </ul>
-<p>This site is <em>not</em> a garden, though.</p>
-<p>The Stream is chronology, newest-first, posts that appear and then slide away forever.</p>
+<p>This site is <em>not</em> a <code>Garden</code>, though.</p>
+<p>The <code>Stream</code> is chronology, newest-first, posts that appear and then slide away forever.</p>
 <p>In the stream you don&rsquo;t explore; you stand in the current and let things rush past. The only organizing principle is simply &ldquo;when&rdquo;, and once something scrolls off the front page it might as well not exist anymore.</p>
 <p>My website still carries a lot of the stream in its bones.</p>
 <ul>
@@ -24,16 +24,22 @@ A short note on what this website actually is (and what it refuses to become).</
 </li>
 <li>Most writings are written, published, and then left exactly as they were on the day they went live.</li>
 </ul>
-<p>This site is <em>not</em> a stream, though.</p>
+<p>This site is <em>not</em> a <code>Stream</code>, though.</p>
 <p>It lives in the messy middle.</p>
-<p>Some corners feel like cultivated beds, some corners feel like a fast-moving river, and most of the land is just ordinary round where both weeds and flowers grow however they want.</p>
+<p>Some corners feel like cultivated beds, some corners feel like a fast-moving river, and most of the land is just ordinary ground where both weeds and flowers grow however they want.</p>
 <p>I am fine with that. I do not need to pick a side or finish the transformation.</p>
 <p>This place is simply mine. My little corner of the web. It can keep changing, shape-shifting, as long as I am still here to tend to it.</p>
 <p>Thanks for walking through it with me, whenever you happened to arrive.</p>
-<p>If you feel like staying longer:</p>
-<p><a href="/about">about</a> me - what I&rsquo;m <a href="/now">up to right now</a> - the <a href="/uses">gear</a> I use - how <a href="/colophon">this site is made</a> - my collection of <a href="/links">bookmarks</a></p>
-<p>Or just dive into the <a href="/posts">writings</a> and the <a href="/micro">micro blog</a>.</p>
-<p>See you around.</p>
+<p>If you feel like staying longer, here are a few quiet corners:</p>
+<ul>
+<li><a href="/about/">about</a> me</li>
+<li>what I’m <a href="/now/">up to right now</a></li>
+<li>the <a href="/uses/">gear</a> I use</li>
+<li>how <a href="/colophon/">this site is made</a></li>
+<li>my small collection of <a href="/links/">bookmarks</a></li>
+</ul>
+<p>Or simply wander my <a href="/posts/">writings</a> and the <a href="/micro/">micro blog</a>.</p>
+<p>Take your time, and see you around.</p>
 ]]></content:encoded></item><item><title>How Vim Broke My Brain (and Why You Should Try It)</title><link>https://michaelyodev.github.io/posts/2025/12/how-vim-broke-my-brain-and-why-you-should-try-it/</link><pubDate>Sat, 06 Dec 2025</pubDate><guid>https://michaelyodev.github.io/posts/2025/12/how-vim-broke-my-brain-and-why-you-should-try-it/</guid><description>
 A retelling of my Vim learning experience, and why you should try it too.</description><content:encoded><![CDATA[<p><code>hhhhjjjkkklllllhhlhjkkkjjjj5wxxd5jxkkkkk:wq</code></p>
 <p>No, my dog did not walk across my keyboard. That was me, in my first few hours of Vim, desperately trying to escape a blank Neovim buffer.</p>
