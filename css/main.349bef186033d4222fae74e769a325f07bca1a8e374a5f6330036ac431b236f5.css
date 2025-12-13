@@ -933,3 +933,32 @@ article .title {
 .micro-body p:last-child {
     margin-bottom: 0;
 }
+
+/* Homepage two-column layout */
+.home-grid {
+    display: grid;
+    gap: 2rem;
+}
+
+.home-grid h1 {
+    margin-block: 0rem 1rem !important;
+    margin-top: 0rem;
+}
+
+@media (min-width: 768px) {
+    .home-grid {
+        grid-template-columns: .75fr 1fr;
+    }
+}
+
+.home-section {
+    background: var(--ef-bg);
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 767px) {
+    .home-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
