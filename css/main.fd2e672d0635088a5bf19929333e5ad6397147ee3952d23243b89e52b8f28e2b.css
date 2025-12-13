@@ -12,7 +12,7 @@
     --ef-purple: #d699b6;
     --ef-aqua: #83c092;
     --ef-orange: #e69875;
-    --ef-gray: #859289;
+    --ef-grey: #859289;
     --ef-muted: #7a8478;
 
     --content-max-width: 800px;
@@ -464,6 +464,7 @@ header .main a:focus {
     margin-top: auto;
     background: var(--ef-bg);
     color: var(--ef-fg);
+    line-height: .75em;
 }
 
 .footer-wrapper {
@@ -495,7 +496,7 @@ header .main a:focus {
 
 .footer-social a {
     border-block-end: 0px;
-    line-height: .5em;
+    line-height: .5rem;
     outline: none !important;
     background: var(--ef-bg) !important;
     outline-offset: 0px;
@@ -508,7 +509,7 @@ header .main a:focus {
 
 /* Link styling */
 .footer-links a {
-    color: var(--ef-gray);
+    color: var(--ef-grey);
     margin-bottom: -10px;
 }
 
@@ -517,7 +518,7 @@ header .main a:focus {
 }
 
 .footer-links2 a {
-    color: var(--ef-gray);
+    color: var(--ef-grey);
 }
 
 .footer-links2 a:hover {
@@ -551,6 +552,7 @@ header .main a:focus {
 /* Footer bottom text */
 .footer-meta {
     font-size: 0.9rem;
+    color: var(--ef-grey);
 }
 
 /* Components */

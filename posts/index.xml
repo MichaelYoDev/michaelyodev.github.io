@@ -1,5 +1,5 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>m1ch43ly0.dev</title><link>https://michaelyodev.github.io/posts/</link><description>Recent posts on m1ch43ly0.dev's site.</description><generator>Hugo</generator><language>en-us</language><copyright>© Michael Oliveira</copyright><lastBuildDate>Fri, 12 Dec 2025</lastBuildDate><atom:link href="https://michaelyodev.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>what is this website?</title><link>https://michaelyodev.github.io/posts/2025/12/what-is-this-website/</link><pubDate>Fri, 12 Dec 2025</pubDate><guid>https://michaelyodev.github.io/posts/2025/12/what-is-this-website/</guid><description>
-A short note on what this website actually is (and what it refuses to become).</description><content:encoded><![CDATA[<p>This website was created on November 4th, 2025. Depending on when you are reading this, that may have been very recently or a long time ago.</p>
+Musings on what this website actually is (and what it refuses to become).</description><content:encoded><![CDATA[<p>This website was created on November 4th, 2025. Depending on when you are reading this, that may have been very recently or a long time ago.</p>
 <p>In his 2015 keynote <a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/"><em>The Garden and the Stream: A Technopastoral</em></a>, Mike Caulfield describes two different philosophies for the web: the <code>Garden</code> and the <code>Stream</code>.</p>
 <p>The <code>Garden</code> is the web as topology. It utilizes links, slow growth, <a href="https://notes.andymatuschak.org/Evergreen_notes">evergreen notes</a>, and things arranged next to each other instead of in a timeline.</p>
 <p>In a true garden, you walk around. You follow a path because one thought feels close to another, not because it was posted last Tuesday. Nothing is ever truly &ldquo;old&rdquo;; it just sits there quietly until someone stumbles across it again and decides to water it. Dates, if they exist at all, are secondary. The shape of the space matters more than the arrow of time.</p>
@@ -12,7 +12,7 @@ A short note on what this website actually is (and what it refuses to become).</
 <li>Pages are connected to each other through <a href="/tags/">tags</a> and manual links.</li>
 </ul>
 <p>This site is <em>not</em> a <code>Garden</code>, though.</p>
-<p>The <code>Stream</code> is chronology, newest-first, posts that appear and then slide away forever.</p>
+<p>The <code>Stream</code> is chronology, newest-first, posts that appear and then slide away forever. You see it on most social media, from Instagram to X.</p>
 <p>In the stream you don&rsquo;t explore; you stand in the current and let things rush past. The only organizing principle is simply &ldquo;when&rdquo;, and once something scrolls off the front page it might as well not exist anymore.</p>
 <p>My website still carries a lot of the stream in its bones.</p>
 <ul>
