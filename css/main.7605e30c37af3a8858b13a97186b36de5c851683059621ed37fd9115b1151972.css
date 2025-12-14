@@ -615,6 +615,7 @@ svg {
 
 .footer-badges a {
     outline: none;
+    border-block-end: none;
 }
 
 .footer-badges img:hover {
