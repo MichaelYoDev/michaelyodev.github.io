@@ -750,7 +750,7 @@ article .title {
 }
 
 .site-description {
-    text-align: center;
+    /* text-align: center; */
     margin-top: 2em;
     margin-bottom: 2em;
 }
@@ -950,9 +950,9 @@ article .title {
     margin-top: 0rem;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 700px) {
     .home-grid {
-        grid-template-columns: .75fr 1fr;
+        grid-template-columns: 1fr 1fr;
     }
 }
 
@@ -961,7 +961,7 @@ article .title {
 }
 
 /* Mobile: stack vertically */
-@media (max-width: 767px) {
+@media (max-width: 699px) {
     .home-grid {
         grid-template-columns: 1fr;
         gap: 1.5rem;
