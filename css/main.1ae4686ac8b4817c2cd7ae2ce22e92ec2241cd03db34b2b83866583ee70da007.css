@@ -459,6 +459,31 @@ tr:nth-child(even) {
     font-weight: bold;
 }
 
+/* Footnotes Section */
+.footnotes {
+    font-size: 0.9em;
+    color: var(--ef-muted);
+}
+
+.footnotes ol {
+    margin: 0;
+    padding-left: 1.6em;
+    list-style-position: outside;
+}
+
+
+/* Superscript references in the main text */
+.footnote-ref {
+    border-block-end: none;
+    color: var(--ef-green);
+}
+
+/* Backlinks (↩) inside footnotes */
+.footnote-backref {
+    color: var(--ef-green);
+    border-block-end: none;
+}
+
 /* ===================================
    Layout & Structure
    =================================== */
