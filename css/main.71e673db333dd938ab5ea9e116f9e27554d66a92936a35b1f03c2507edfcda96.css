@@ -334,69 +334,33 @@ pre code {
    Components
    =================================== */
 .callout {
-    padding: 0.8em 1em;
+    padding: 0em 1em;
     margin-block: 1em;
-    border-left: 4px solid;
+    border-left: 3px solid;
 }
 
-.callout-title {
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 0.9em;
-    display: flex;
-    align-items: center;
-    gap: 0.5em;
-    margin-bottom: 0.5em;
-}
-
-.callout-title svg {
-    width: 1.2em;
-    height: 1.2em;
-    flex-shrink: 0;
-}
-
-/* Note - blue (general info) */
 .callout-note {
     border-color: var(--ef-blue);
-}
-
-.callout-note .callout-title {
     color: var(--ef-blue);
 }
 
-/* Info / Important - purple-ish */
 .callout-info {
     border-color: var(--ef-purple);
-}
-
-.callout-info .callout-title {
     color: var(--ef-purple);
 }
 
-/* Tip - green */
 .callout-tip {
     border-color: var(--ef-aqua);
-}
-
-.callout-tip .callout-title {
     color: var(--ef-aqua);
 }
 
-/* Warning - yellow/orange */
 .callout-warning {
     border-color: var(--ef-yellow);
-}
-
-.callout-warning .callout-title {
     color: var(--ef-yellow);
 }
 
-/* Alert / Caution - red */
 .callout-alert {
     border-color: var(--ef-red);
-}
-
-.callout-alert .callout-title {
     color: var(--ef-red);
 }
 
@@ -468,7 +432,6 @@ tr:nth-child(even) {
 .footnotes ol {
     margin: 0;
     padding-left: 1.6em;
-    list-style-position: outside;
 }
 
 
