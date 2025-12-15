@@ -4,18 +4,18 @@ An introduction to the Arvelie date system, what draws me to it, and why I use i
 <p>Arvelie dates are written in the format <code>YYMDD</code>. The year count begins at zero relative to an arbitrary but meaningful reference point, most commonly the start of a project or journal. The calendar consists of 26 months, each represented by a letter of the Latin alphabet (A–Z). Every month contains exactly two weeks of seven days, resulting in a uniform structure of 14 days per month.</p>
 <p>Using 2025 as the base year, the following examples illustrate the system:</p>
 <ul>
-<li>January 1, 2025 -&gt; 00A00</li>
-<li>April 1, 2025 -&gt; 00G06</li>
-<li>October 5, 2025 -&gt; 00T11</li>
-<li>December 31, 2025 -&gt; 00&#43;00</li>
-<li>March 15, 2027 -&gt; 02F03</li>
+<li>January 1, 2025 -&gt; <code>00A00</code></li>
+<li>April 1, 2025 -&gt; <code>00G06</code></li>
+<li>October 5, 2025 -&gt; <code>00T11</code></li>
+<li>December 31, 2025 -&gt; <code>00&#43;00</code></li>
+<li>March 15, 2027 -&gt; <code>02F03</code></li>
 </ul>
 <h2 id="conceptual-motivation">conceptual motivation</h2>
 <p>A defining characteristic of the Arvelie system is its rejection of an <a href="https://en.wikipedia.org/wiki/Epoch_(computing)">absolute historical epoch</a> in favor of a relative temporal framework. Conventional calendars typically anchor time to distant historical or religious events, such as AD (<a href="https://en.wikipedia.org/wiki/Anno_Domini">Anno Domini</a>) or BC (Before Christ). By contrast, Arvelie permits the user to define year zero according to personal significance—for example, the inception of a website or creative project.</p>
-<p>This relativity aligns closely with everyday human conceptions of time. Age is measured from birth, professional experience from a start date, and relationships through anniversaries. Arvelie formalizes this intuitive practice, shifting emphasis from an abstract global timeline to the duration and development of a specific endeavor. For this reason, it is particularly well suited to a <a href="/posts/what-is-this-website/">personal site such as the one you are currently reading</a>.</p>
+<p>This relativity aligns closely with everyday human conceptions of time. Age is measured from birth, professional experience from a start date, and relationships through the use of anniversaries. Arvelie formalizes this intuitive practice, shifting emphasis from an abstract global timeline to the duration and development of a specific endeavor. For this reason, it is particularly well suited to a <a href="/posts/what-is-this-website/">personal site such as the one you are currently reading</a>.</p>
 <p>Structurally, the calendar is notable for its uniformity: 26 identical <a href="https://en.wikipedia.org/wiki/Fortnight">fortnights</a> per year. This eliminates irregular month lengths and exception-heavy rules, improves lexical date sorting, and yields concise, visually distinctive date strings that remain legible.</p>
 <h2 id="intercalary-days">intercalary days</h2>
-<p>The Arvelie calendar accounts for surplus solar days through the use of <a href="https://en.wikipedia.org/wiki/Intercalation_(timekeeping)">intercalary days</a>. After the final month (Z), a special Year Day is inserted, denoted as <code>+00</code>. This day exists outside the standard month–week structure and represents the final day of the year. So <code>2025-12-31</code> is translated to <code>00&#43;00</code>.</p>
+<p>The Arvelie calendar accounts for surplus solar days through the use of <a href="https://en.wikipedia.org/wiki/Intercalation_(timekeeping)">intercalary days</a>. After the final month (<code>Z</code>), a special Year Day is inserted, denoted as <code>+00</code>. This day exists outside the standard month–week structure and represents the final day of the year, e.g., <code>2025-12-31</code> is translated to <code>00&#43;00</code>.</p>
 <p>In <a href="https://en.wikipedia.org/wiki/Leap_year">leap years</a>, an additional Leap Day follows the Year Day and is written as <code>+01</code>. Like the Year Day, it does not belong to any month. For example, in 2028, <code>2028-12-30</code> corresponds to <code>03&#43;00</code> (Year Day), and <code>2028-12-31</code> corresponds to <code>03&#43;01</code> (Leap Day).</p>
 <h2 id="implementation-on-this-site">implementation on this site</h2>
 <p>This site launched in 2025, which is therefore designated as year <code>00</code>. All dates published during 2025 begin with <code>00</code>, incrementing to <code>01</code> in 2026, and so forth. This approach explicitly ties the calendar to the lifespan of the project itself.</p>
@@ -30,7 +30,7 @@ An introduction to the Arvelie date system, what draws me to it, and why I use i
 <li>Zerubavel, Eviatar. <em>The Seven Day Circle: The History and Meaning of the Week</em>. University of Chicago Press.</li>
 </ul>
 <blockquote>
-<p>For practical experimentation with the system, I have also developed a converter, available <a href="https://michaelyodev.github.io/arvelieConverter/">here</a>.</p>
+<p>For practical experimentation with the system, I have developed a converter, available <a href="https://michaelyodev.github.io/arvelieConverter/">here</a>.</p>
 </blockquote>
 
 <div class='callout callout-custom' style=''>

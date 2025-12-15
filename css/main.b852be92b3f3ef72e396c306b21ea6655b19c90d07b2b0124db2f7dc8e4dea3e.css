@@ -683,6 +683,14 @@ nav a.active:hover {
     color: white;
     font: bold 40px/1 sans-serif;
     text-decoration: none;
+    transition: transform 0.15s;
+}
+
+.lightbox .close:hover {
+    background: none;
+    outline: none;
+    color: var(--ef-green);
+    transform: scale(1.1);
 }
 
 @media (max-width: 800px) {
