@@ -1,6 +1,6 @@
 /* ===================================
-   CSS Variables
-   =================================== */
+   CSS Variables
+   =================================== */
 :root {
     --ef-bg: #272e33;
     --ef-bg-muted: #2d353b;
@@ -25,8 +25,8 @@
 }
 
 /* ===================================
-   Reset & Base Styles
-   =================================== */
+   Reset & Base Styles
+   =================================== */
 *,
 *::before,
 *::after {
@@ -64,8 +64,8 @@ body {
 }
 
 /* ===================================
-   Typography
-   =================================== */
+   Typography
+   =================================== */
 p {
     line-height: var(--line-height-content);
     margin-block: 1em;
@@ -173,8 +173,8 @@ ol li::marker {
 }
 
 /* ===================================
-   Media & Figures
-   =================================== */
+   Media & Figures
+   =================================== */
 img {
     max-inline-size: 100%;
     block-size: auto;
@@ -211,8 +211,8 @@ figure h4::before {
 }
 
 /* ===================================
-   Code & Syntax Highlighting
-   =================================== */
+   Code & Syntax Highlighting
+   =================================== */
 code {
     background: var(--ef-bg-green);
     color: var(--ef-fg);
@@ -331,8 +331,8 @@ pre code {
 }
 
 /* ===================================
-   Components
-   =================================== */
+   Components
+   =================================== */
 .callout {
     padding: 0em 1em;
     margin-block: 1em;
@@ -434,7 +434,6 @@ tr:nth-child(even) {
     padding-left: 1.6em;
 }
 
-
 /* Superscript references in the main text */
 .footnote-ref {
     border-block-end: none;
@@ -448,8 +447,8 @@ tr:nth-child(even) {
 }
 
 /* ===================================
-   Layout & Structure
-   =================================== */
+   Layout & Structure
+   =================================== */
 .content {
     max-inline-size: var(--content-max-width);
     margin-inline: auto;
@@ -462,16 +461,62 @@ tr:nth-child(even) {
 header {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
     align-items: center;
     margin-block: 2em 1em;
-    line-height: 2.5em;
     gap: 1rem;
 }
 
 header .main {
+    flex-shrink: 0;
     font-size: 2.2rem;
     font-weight: bold;
+    transition: .2s;
+}
+
+header .main:hover {
+    transform: scale(1.05);
+    transition: transform .2s;
+}
+
+header .a-image img {
+    height: 100px;
+    width: auto;
+    object-fit: contain;
+    display: block;
+    margin-right: 0.3em;
+}
+
+header .a-image:hover {
+    outline: none;
+    background: none;
+}
+
+hr.header-hr {
+    margin-block-start: 2em;
+}
+
+header-nav {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1rem 1rem;
+    line-height: 1.4em;
+}
+
+header-nav a {
+    white-space: nowrap;
+}
+
+@media (min-width: 460px) {
+    header-nav {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: flex-start;
+        max-height: 100px;
+        gap: 0.5rem 1.5rem;
+        line-height: 1.4em;
+    }
 }
 
 .post-container {
@@ -520,8 +565,8 @@ header .main {
 }
 
 /* ===================================
-   Navigation & Icons
-   =================================== */
+   Navigation & Icons
+   =================================== */
 nav {
     display: flex;
     flex-wrap: wrap;
@@ -542,8 +587,8 @@ nav a.active:hover {
 }
 
 /* ===================================
-   Footer
-   =================================== */
+   Footer
+   =================================== */
 .site-footer {
     border-block-start: 1px solid var(--ef-muted);
     padding-block-start: 2rem;
@@ -622,8 +667,8 @@ nav a.active:hover {
 }
 
 /* ===================================
-    Gallery & Lightbox
-   =================================== */
+    Gallery & Lightbox
+   =================================== */
 .gallery {
     column-count: 3;
     column-gap: 8px;
@@ -706,8 +751,8 @@ nav a.active:hover {
 }
 
 /* ===================================
-    Micro Blog
-   =================================== */
+    Micro Blog
+   =================================== */
 .micro-board {
     column-count: 2;
     column-gap: 1rem;
@@ -780,8 +825,8 @@ nav a.active:hover {
 }
 
 /* ===================================
-    Homepage Layout
-   =================================== */
+    Homepage Layout
+   =================================== */
 .home-grid {
     display: grid;
     gap: 2rem;
@@ -809,8 +854,8 @@ nav a.active:hover {
 }
 
 /* ===================================
-    Miscellaneous & Responsive
-   =================================== */
+    Miscellaneous & Responsive
+   =================================== */
 .meta,
 .date,
 time {
@@ -845,17 +890,4 @@ article .title {
 
 .site-description {
     margin-block: 2em;
-}
-
-@media (max-width: 37.4em) {
-    .content {
-        padding-inline: 0.5rem;
-    }
-
-    header,
-    .site-description {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 0.5rem;
-    }
 }
