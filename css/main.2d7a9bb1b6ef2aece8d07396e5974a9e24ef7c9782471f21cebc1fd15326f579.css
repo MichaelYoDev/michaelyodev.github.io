@@ -493,6 +493,7 @@ header .a-image:hover {
 }
 
 hr.header-hr {
+    border-width: 2px;
     margin-block-start: 2em;
 }
 
@@ -591,7 +592,7 @@ nav a.active:hover {
    Footer
    =================================== */
 .site-footer {
-    border-block-start: 1px solid var(--ef-muted);
+    border-block-start: 2px solid var(--ef-muted);
     padding-block-start: 2rem;
     margin-top: auto;
     background: var(--ef-bg);
