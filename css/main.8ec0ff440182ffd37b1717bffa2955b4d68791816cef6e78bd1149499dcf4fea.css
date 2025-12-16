@@ -484,6 +484,7 @@ header .a-image img {
     object-fit: contain;
     display: block;
     margin-right: 0.3em;
+    border-radius: 0px;
 }
 
 header .a-image:hover {
