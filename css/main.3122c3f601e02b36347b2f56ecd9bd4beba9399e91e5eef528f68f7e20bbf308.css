@@ -459,6 +459,7 @@ tr:nth-child(even) {
 }
 
 header {
+    justify-content: center;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
@@ -483,7 +484,7 @@ header .a-image img {
     width: auto;
     object-fit: contain;
     display: block;
-    margin-right: 0.3em;
+    /* margin-right: 0.3em; */
     border-radius: 0px;
 }
 
@@ -495,14 +496,6 @@ header .a-image:hover {
 hr.header-hr {
     border-width: 2px;
     margin-block-start: 2em;
-}
-
-hr.footer-hr {
-    border: 0;
-    border-block-start: 2px solid var(--ef-muted);
-    margin-block-end: 1.5rem;
-    max-inline-size: var(--content-max-width);  /* ensures it never exceeds content width */
-    inline-size: 100%;
 }
 
 header-nav {
@@ -518,6 +511,10 @@ header-nav a {
 }
 
 @media (min-width: 460px) {
+    header {
+        justify-content: left;
+    }
+
     header-nav {
         display: flex;
         flex-direction: column;
@@ -674,6 +671,14 @@ nav a.active:hover {
 .footer-meta {
     font-size: 0.9rem;
     color: var(--ef-grey);
+}
+
+hr.footer-hr {
+    border: 0;
+    border-block-start: 2px solid var(--ef-muted);
+    margin-block-end: 1.5rem;
+    max-inline-size: var(--content-max-width);
+    inline-size: 100%;
 }
 
 /* ===================================
