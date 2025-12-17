@@ -506,12 +506,15 @@ header-nav {
 
 header-nav a {
     white-space: nowrap;
+    border: 2px solid transparent;
+    border-block-end: 1px solid var(--ef-green);
 }
 
 header-nav a.active {
-    background: var(--ef-bg-green);
-    color: var(--ef-fg);
-    border: 2px solid var(--ef-green);
+    background: var(--ef-fg);
+    color: var(--ef-bg);
+    font-weight: bolder;
+    /* border: 2px solid var(--ef-green); */
 }
 
 header-nav a.active:hover {
