@@ -508,6 +508,17 @@ header-nav a {
     white-space: nowrap;
 }
 
+header-nav a.active {
+    background: var(--ef-bg-green);
+    color: var(--ef-fg);
+    border: 2px solid var(--ef-green);
+}
+
+header-nav a.active:hover {
+    background: var(--ef-green);
+    color: var(--ef-bg);
+}
+
 @media (min-width: 460px) {
     header {
         justify-content: left;
@@ -582,17 +593,6 @@ nav {
     align-items: center;
     gap: 1rem;
     line-height: 1.4em;
-}
-
-nav a.active {
-    background: var(--ef-bg-green);
-    color: var(--ef-fg);
-    border: 2px solid var(--ef-green);
-}
-
-nav a.active:hover {
-    background: var(--ef-green);
-    color: var(--ef-bg);
 }
 
 /* ===================================
