@@ -33,14 +33,19 @@ An introduction to the Arvelie date system, what draws me to it, and why I use i
 <p>For practical experimentation with the system, I have developed a converter, available <a href="https://michaelyodev.github.io/arvelieConverter/">here</a>.</p>
 </blockquote>
 
-<div class='callout callout-custom' style=''>
-    <div class="callout-inner">
-        
-         <u>note on tone</u>
-        <br />
-        This post was intentionally written in a more scholarly and academic register, drawing inspiration from the in-world academic voices of Shallan Davar, Jasnah Kholin, and Navani Kholin in Brandon Sanderson’s &#34;The Stormlight Archive.&#34;
 
-        
+<div class='callout callout-note'>
+    <div class="callout-inner">
+        <div class="callout-header">
+            
+            <strong>note</strong>
+
+            
+        </div>
+
+        <div class="callout-body">
+            This post was intentionally written in a more scholarly and academic register, drawing inspiration from the in-world academic voices of Shallan Davar, Jasnah Kholin, and Navani Kholin in Brandon Sanderson’s <a href="https://en.wikipedia.org/wiki/The_Stormlight_Archive"><em>The Stormlight Archive</em></a>.&quot;
+        </div>
     </div>
 </div>
 
@@ -185,14 +190,19 @@ A reflection on my emotions and thoughts after my final high school marching ban
 <p>I will never have another high school marching band experience.</p>
 <p>Last one, best one.</p>
 
-<div class='callout callout-custom' style=''>
-    <div class="callout-inner">
-        
-         <u>note to future self</u>
-        <br />
-        This is not the end! In 2 years, you will see me at the Lucas Oil Stadium in Indianapolis, for the 2027 DCI World Championships. :)
 
-        
+<div class='callout callout-custom'>
+    <div class="callout-inner">
+        <div class="callout-header">
+            
+            <strong>note to future self</strong>
+
+            
+        </div>
+
+        <div class="callout-body">
+            This is not the end! In 2 years, you will see me at the Lucas Oil Stadium in Indianapolis, for the 2027 DCI World Championships. :)
+        </div>
     </div>
 </div>
 

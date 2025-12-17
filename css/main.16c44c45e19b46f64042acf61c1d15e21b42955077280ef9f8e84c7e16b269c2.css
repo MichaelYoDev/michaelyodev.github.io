@@ -340,19 +340,36 @@ pre code {
     border-left: 3px solid;
 }
 
-.callout-note {
-    border-color: var(--ef-blue);
-    color: var(--ef-blue);
+.callout-inner {
+    display: flex;
+    flex-direction: column;
 }
 
-.callout-info {
-    border-color: var(--ef-purple);
-    color: var(--ef-purple);
+.callout-header {
+    margin-bottom: 0.5em;
+}
+
+.callout-header strong {
+    color: inherit;
+}
+
+.callout-body {
+    color: var(--ef-fg);
+}
+
+.callout-note {
+    border-color: var(--ef-aqua);
+    color: var(--ef-aqua);
 }
 
 .callout-tip {
-    border-color: var(--ef-aqua);
-    color: var(--ef-aqua);
+    border-color: var(--ef-green);
+    color: var(--ef-green);
+}
+
+.callout-important {
+    border-color: var(--ef-purple);
+    color: var(--ef-purple);
 }
 
 .callout-warning {
@@ -360,7 +377,7 @@ pre code {
     color: var(--ef-yellow);
 }
 
-.callout-alert {
+.callout-caution {
     border-color: var(--ef-red);
     color: var(--ef-red);
 }
