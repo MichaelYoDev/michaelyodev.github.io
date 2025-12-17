@@ -639,7 +639,7 @@ nav a.active:hover {
 
 .footer-social img:hover {
     filter: brightness(0) saturate(100%) invert(75%) sepia(41%) saturate(291%) hue-rotate(42deg) brightness(92%) contrast(86%);
-    transform: scale(1.5);
+    transform: scale(1.25);
 }
 
 .footer-links a,
