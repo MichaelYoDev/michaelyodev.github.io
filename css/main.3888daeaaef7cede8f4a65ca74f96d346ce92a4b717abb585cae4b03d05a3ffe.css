@@ -335,8 +335,9 @@ pre code {
    Components
    =================================== */
 .callout {
-    padding: 0em 1em;
+    padding: .5em 1em;
     margin-block: 1em;
+    background: var(--ef-bg-lighter);
     border-left: 3px solid;
 }
 
@@ -349,22 +350,18 @@ pre code {
     margin-bottom: 0.5em;
 }
 
-.callout-header strong {
-    color: inherit;
-}
-
 .callout-body {
     color: var(--ef-fg);
 }
 
 .callout-note {
-    border-color: var(--ef-aqua);
-    color: var(--ef-aqua);
+    border-color: var(--ef-green);
+    color: var(--ef-green);
 }
 
 .callout-tip {
-    border-color: var(--ef-green);
-    color: var(--ef-green);
+    border-color: var(--ef-aqua);
+    color: var(--ef-aqua);
 }
 
 .callout-important {
@@ -382,23 +379,17 @@ pre code {
     color: var(--ef-red);
 }
 
+.callout-custom {
+    border-color: var(--ef-muted);
+    color: var(--ef-muted);
+}
+
 .tags {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
     list-style: none;
     padding: 0;
-}
-
-.tags a {
-    border-block-end: 1.75px solid var(--ef-green);
-    transition: all 0.2s ease;
-}
-
-.tags a:hover,
-.tags a:focus {
-    background: var(--ef-green);
-    color: var(--ef-bg);
 }
 
 table {
@@ -413,12 +404,12 @@ table {
 th,
 td {
     padding: 0.75rem;
-    border: 1px solid var(--ef-blue);
+    border: 1px solid var(--ef-green);
     text-align: start;
 }
 
 th {
-    background: #2d353b;
+    background: var(--ef-bg-green);
     font-weight: bold;
     color: var(--ef-fg);
 }
@@ -428,7 +419,7 @@ td {
 }
 
 tr:nth-child(even) {
-    background: #2e383c;
+    background: var(--ef-bg-lighter);
 }
 
 .draft-label {
