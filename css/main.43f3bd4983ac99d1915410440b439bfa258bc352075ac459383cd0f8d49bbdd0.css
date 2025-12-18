@@ -146,7 +146,8 @@ h6::before {
 
 a {
     color: inherit;
-    text-decoration: underline var(--ef-green);
+    text-decoration-line: underline;
+    text-decoration-color: var(--ef-green);
     /* border-block-end: 1.75px solid var(--ef-green); */
     transition: background-color 0.2s ease, color 0.2s ease;
 }
