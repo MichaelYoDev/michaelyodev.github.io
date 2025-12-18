@@ -34,9 +34,19 @@
     -webkit-tap-highlight-color: transparent;
 }
 
+@font-face {
+    font-family: DepartureMono-Regular;
+    src: url("/fonts/DepartureMono-Regular.woff2") format("woff2"),
+        url("/fonts/DepartureMono-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
 html {
     color: var(--ef-fg);
-    font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+    font-family: DepartureMono-Regular;
+    /* font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; */
     /* font-family: system-ui, sans-serif; */
     font-size: var(--font-size-base);
     line-height: var(--line-height-base);
@@ -215,6 +225,7 @@ figure h4::before {
    Code & Syntax Highlighting
    =================================== */
 code {
+    font-family: DepartureMono-Regular;
     background: var(--ef-bg-green);
     color: var(--ef-fg);
     padding: 0 0.15em;
@@ -530,7 +541,7 @@ header-nav a.active:hover {
     color: var(--ef-bg);
 }
 
-@media (min-width: 660px) {
+@media (min-width: 680px) {
     header {
         justify-content: left;
     }
