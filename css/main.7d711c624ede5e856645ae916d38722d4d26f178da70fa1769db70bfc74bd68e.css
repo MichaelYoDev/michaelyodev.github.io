@@ -560,6 +560,10 @@ header-nav a.active:hover {
         gap: 0.5rem 1.5rem;
         line-height: 1.4em;
     }
+
+    .site-description p {
+        text-align: center;
+    }
 }
 
 .post-container {
@@ -949,4 +953,11 @@ article .title {
 
 .site-description {
     margin-block: 2em;
+    text-align: center;
+}
+
+@media (min-width: 680px) {
+    .site-description p {
+        text-align: left;
+    }
 }
