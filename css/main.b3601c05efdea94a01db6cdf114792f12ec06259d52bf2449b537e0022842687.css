@@ -649,6 +649,7 @@ nav {
     color: var(--ef-grey);
     text-align: center;
     font-size: 0.9rem;
+    line-height: 2em;
 }
 
 .footer-cc a {
@@ -661,6 +662,7 @@ nav {
     justify-content: center;
     align-items: center;
     gap: 1em;
+    margin-top: 1em;
 }
 
 .footer-social a {
@@ -695,6 +697,8 @@ nav {
 
 .qr {
     display: block;
+    width: 6em;
+    height: 6em;
     filter: invert(1);
 }
 
