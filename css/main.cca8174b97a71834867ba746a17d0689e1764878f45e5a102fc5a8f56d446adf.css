@@ -613,6 +613,9 @@ nav {
    Footer
    =================================== */
 .site-footer {
+    max-inline-size: 800px;
+    margin-inline: auto;
+    padding-inline: var(--content-padding);
     margin-block-start: 2em;
     padding-block-start: 1em;
     border-block-start: 2px solid var(--ef-muted);
@@ -620,9 +623,6 @@ nav {
 }
 
 .footer-wrapper {
-    max-inline-size: 800px;
-    margin-inline: auto;
-    padding-inline: var(--content-padding);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -672,7 +672,8 @@ nav {
 .icon {
     inline-size: 24px;
     block-size: 24px;
-    filter: invert(95%) sepia(9%) saturate(832%) hue-rotate(341deg) brightness(88%) contrast(86%);
+    /* filter: invert(95%) sepia(9%) saturate(832%) hue-rotate(341deg) brightness(88%) contrast(86%); */
+    filter: brightness(0) saturate(100%) invert(51%) sepia(12%) saturate(287%) hue-rotate(64deg) brightness(97%) contrast(88%);
     transition: filter 0.15s;
 }
 
