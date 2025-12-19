@@ -494,22 +494,12 @@ header .main {
     transition: .2s;
 }
 
-header .main:hover {
-    transform: scale(1.05);
-    transition: transform .2s;
-}
-
 header .a-image img {
     height: 100px;
     width: auto;
     object-fit: contain;
     display: block;
     border-radius: 0px;
-}
-
-header .a-image:hover {
-    outline: none;
-    background: none;
 }
 
 hr.header-hr {
@@ -521,8 +511,8 @@ header-nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem 1rem;
-    line-height: 1.4em;
+    gap: .75rem .75rem;
+    line-height: 1em;
 }
 
 header-nav a {
@@ -680,12 +670,11 @@ nav {
     inline-size: 24px;
     block-size: 24px;
     filter: invert(95%) sepia(9%) saturate(832%) hue-rotate(341deg) brightness(88%) contrast(86%);
-    transition: filter 0.15s, transform 0.15s;
+    transition: filter 0.15s;
 }
 
 .icon:hover {
     filter: brightness(0) saturate(100%) invert(75%) sepia(41%) saturate(291%) hue-rotate(42deg) brightness(92%) contrast(86%);
-    transform: scale(1.25);
 }
 
 .footer-qr {
@@ -721,11 +710,6 @@ nav {
 .button {
     width: 88px;
     height: 31px;
-    transition: transform 0.15s;
-}
-
-.button:hover {
-    transform: scale(1.15);
 }
 
 /* ===================================
@@ -744,11 +728,10 @@ nav {
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    transition: transform 0.3s, box-shadow 0.3s;
+    transition: box-shadow 0.3s;
 }
 
 .gallery a:hover {
-    transform: scale(1.03);
     box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
 }
 
@@ -791,14 +774,12 @@ nav {
     color: white;
     font: bold 40px/1 sans-serif;
     text-decoration: none;
-    transition: transform 0.15s;
 }
 
 .lightbox .close:hover {
     background: none;
     outline: none;
     color: var(--ef-green);
-    transform: scale(1.1);
 }
 
 @media (max-width: 800px) {
