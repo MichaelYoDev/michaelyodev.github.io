@@ -698,7 +698,7 @@ nav {
     flex-wrap: wrap;
     justify-content: center;
     line-height: 0em;
-    /* gap: 1em; */
+    gap: .5em;
 }
 
 .footer-buttons a {
