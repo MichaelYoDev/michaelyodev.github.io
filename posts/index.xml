@@ -2,7 +2,7 @@
 A tour of the custom features I have built directly into my Neovim config, from a custom tabline and statusline to small QoL automations, showing how far you can go with minimal plugins.</description><content:encoded><![CDATA[<p>I have been using Neovim since my junior year of high school, and have gone through the phases of emulating an IDE with lazy.nvim, using dozens of plugins, to my current setup, where I rely on very few plugins and use a lot of features I built in myself.</p>
 <p>Let us take a look at said features, the ones implemented directly in my config rather than through a plugin.</p>
 <h2 id="buffer-tabline">buffer tabline</h2>
-<p>This was inspired (and almost directly copied) from <a href="https://adamthiede.com/posts/2025-07-06_no-more-neovim-plugins.html">Adam Thiede</a>&rsquo;s blog, where he completely removed all of the neovim plugins he had been using.</p>
+<p>This was inspired (and almost directly copied) from <a href="https://adamthiede.com/posts/2025-07-06_no-more-neovim-plugins.html">Adam Thiede</a>&rsquo;s blog post, where he completely removed all of the neovim plugins he had been using.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-lua" data-lang="lua"><span class="line"><span class="cl"><span class="c1">-- nvim/lua/stuff.lua</span>
 </span></span><span class="line"><span class="cl"><span class="kr">function</span> <span class="nc">M</span><span class="p">.</span><span class="nf">BufferTabline</span><span class="p">()</span>
 </span></span><span class="line"><span class="cl">    <span class="n">vim.api</span><span class="p">.</span><span class="n">nvim_set_hl</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="s2">&#34;TablineBuffer&#34;</span><span class="p">,</span> <span class="p">{</span> <span class="n">link</span> <span class="o">=</span> <span class="s2">&#34;Normal&#34;</span> <span class="p">})</span>
@@ -231,7 +231,7 @@ An introduction to the Arvelie date system, what draws me to it, and why I use i
 ]]></content:encoded></item><item><title>what is this website?</title><link>https://michaelyodev.github.io/posts/what-is-this-website/</link><pubDate>Fri, 12 Dec 2025</pubDate><guid>https://michaelyodev.github.io/posts/what-is-this-website/</guid><description>
 An exploration of the concepts of the Garden and the Stream as they relate to personal websites, examining how my site incorporates elements of both and why it cannot be confined to a single category.</description><content:encoded><![CDATA[<p>This website was created on November 4th, 2025 (00V13).<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> Depending on when you are reading this, that may have been very recently or a long time ago.</p>
 <p>In his 2015 keynote <a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/"><em>The Garden and the Stream: A Technopastoral</em></a>,<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Mike Caulfield describes two different philosophies for the web: the <code>Garden</code> and the <code>Stream</code>.</p>
-<p>The <code>Garden</code> is the web as <a href="https://en.wikipedia.org/wiki/Topology">topology</a>. It utilizes links, slow growth, evergreen notes,<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> and things arranged next to each other instead of in a timeline.</p>
+<p>The <code>Garden</code> is the web as <a href="https://en.wikipedia.org/wiki/Topology">topology</a>. It uses links, slow growth, evergreen notes,<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> and things arranged next to each other instead of in a timeline.</p>
 <p>In a true garden, you walk around. You follow a path because one thought feels close to another, not because it was posted last Tuesday. Nothing is ever truly <em>old</em>; it just sits there until someone stumbles across it again and decides to water it. Dates, if they exist at all, are secondary. The shape of the space matters more than the arrow of time.</p>
 <p>My website borrows a few habits from the garden.</p>
 <ul>
@@ -255,8 +255,8 @@ An exploration of the concepts of the Garden and the Stream as they relate to pe
 <li>Most writings are written, published, and then left exactly as they were on the day they went live.</li>
 </ul>
 <p>This site is <em>not</em> a <code>Stream</code>, though.</p>
-<p>It lives in the messy middle.</p>
-<p>Some corners feel like cultivated beds, some corners feel like a fast-moving river, and most of the land is just ordinary ground where both weeds and flowers grow however they want.</p>
+<p>It lives in the middle.</p>
+<p>Some corners are cultivated beds, some corners a fast-moving river, and most of the land is just ordinary ground where both weeds and flowers grow however they want.</p>
 <p>I am fine with that. I do not need to pick a side or finish the transformation.</p>
 <p>This place is simply mine. My little corner of the web. It can keep changing, shape-shifting, as long as I am still here to tend to it.</p>
 <p>Thanks for walking through it with me, whenever you happened to arrive.</p>
