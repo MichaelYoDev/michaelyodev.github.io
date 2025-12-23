@@ -789,11 +789,11 @@ nav {
     }
 }
 
-@media (max-width: 500px) {
-    .gallery {
-        column-count: 1;
-    }
-}
+/* @media (max-width: 500px) { */
+/*     .gallery { */
+/*         column-count: 1; */
+/*     } */
+/* } */
 
 /* ===================================
     Micro Blog
