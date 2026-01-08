@@ -46,8 +46,6 @@
 html {
     color: var(--ef-fg);
     font-family: DepartureMono-Regular, ui-monospace, monospace;
-    /* font-family: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace; */
-    /* font-family: system-ui, sans-serif; */
     font-size: var(--font-size-base);
     line-height: var(--line-height-base);
     scroll-behavior: smooth;
@@ -158,7 +156,6 @@ a {
     color: inherit;
     text-decoration-line: underline;
     text-decoration-color: var(--ef-green);
-    /* border-block-end: 1.75px solid var(--ef-green); */
     transition: background-color 0.2s ease, color 0.2s ease;
 }
 
@@ -574,7 +571,6 @@ header-nav a.active {
 
 @media (min-width: 60em) {
     .toc {
-        /* font-size: 0.9rem; */
         position: sticky;
         top: 1.25rem;
     }
@@ -664,7 +660,6 @@ nav {
 .icon {
     inline-size: 24px;
     block-size: 24px;
-    /* filter: invert(95%) sepia(9%) saturate(832%) hue-rotate(341deg) brightness(88%) contrast(86%); */
     filter: brightness(0) saturate(100%) invert(51%) sepia(12%) saturate(287%) hue-rotate(64deg) brightness(97%) contrast(88%);
     transition: filter 0.15s;
 }
@@ -788,12 +783,6 @@ nav {
         column-count: 2;
     }
 }
-
-/* @media (max-width: 500px) { */
-/*     .gallery { */
-/*         column-count: 1; */
-/*     } */
-/* } */
 
 /* ===================================
     Micro Blog
